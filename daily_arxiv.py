@@ -76,15 +76,14 @@ def get_daily_papers(topic,query="SNN", max_results=2):
             if "official" in r and r["official"]:
                 cnt += 1
                 repo_url = r["official"]["url"]
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
 
             else:
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|[{paper_id}]({paper_url})|{comments}|\n"
+                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, Paper: [{paper_url}]({paper_url})"
 
             # TODO: select useful comments
-            comments = None
             if comments != None:
                 content_to_web[paper_key] = content_to_web[paper_key] + f", {comments}\n"
             else:
@@ -186,9 +185,9 @@ def json_to_md(filename,md_filename,
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    f.write("|Publish Date|Title|PDF|Comment|\n" + "|---|---|---|---|---|\n")
                 else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                    f.write("| Publish Date | Title | PDF | Comment |\n")
                     f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
             # sort papers by date

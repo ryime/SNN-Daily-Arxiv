@@ -185,10 +185,10 @@ def json_to_md(filename,md_filename,
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|PDF|Comment|\n" + "|---|---|---|---|---|\n")
+                    f.write("|Publish Date|Title|PDF|Comment|\n" + "|---|---|---|---|\n")
                 else:
                     f.write("| Publish Date | Title | PDF | Comment |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                    f.write("|:---------|:-----------------------|:---------|:------|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)

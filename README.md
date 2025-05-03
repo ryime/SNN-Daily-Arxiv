@@ -10,7 +10,7 @@
 ## Spiking Neural Network
 
 |Publish Date|Title|PDF|Comment|
-|---|---|---|---|---|
+|---|---|---|---|
 |**2025-04-29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|[2504.20445v1](http://arxiv.org/abs/2504.20445v1)|Accepted by IJCNN2025|
 |**2025-04-23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|[2504.17819v1](http://arxiv.org/abs/2504.17819v1)|None|
 |**2025-04-29**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|[2504.17751v3](http://arxiv.org/abs/2504.17751v3)|None|

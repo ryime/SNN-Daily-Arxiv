@@ -53,8 +53,8 @@ def get_daily_papers(topic,query="SNN", max_results=2):
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
         primary_category    = result.primary_category
-        publish_time        = result.published.date().replace('-', '.')
-        update_time         = result.updated.date().replace('-', '.')
+        publish_time        = str(result.published.date()).replace('-', '.')
+        update_time         = str(result.updated.date()).replace('-', '.')
         comments            = result.comment
 
 

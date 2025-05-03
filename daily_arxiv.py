@@ -76,11 +76,11 @@ def get_daily_papers(topic,query="SNN", max_results=2):
             if "official" in r and r["official"]:
                 cnt += 1
                 repo_url = r["official"]["url"]
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|[{paper_id}]({paper_url})|<span title={comments}>{abbr(comments)}</span>|\n"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|[{paper_id}]({paper_url})|{abbr(comments)}|\n"
                 content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, Paper: [{paper_url}]({paper_url}), Comments: {comments}"
 
             else:
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|[{paper_id}]({paper_url})|<span title={comments}>{abbr(comments)}</span>|\n"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|[{paper_id}]({paper_url})|{abbr(comments)}|\n"
                 content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, Paper: [{paper_url}]({paper_url})"
 
             # TODO: select useful comments
@@ -100,7 +100,7 @@ def abbr(comments):
     if comments is None:
         return 'None'
     if len(comments) > 50:
-        return comments[:50]
+        return comments[:50] + '...'
     else:
         return comments
 

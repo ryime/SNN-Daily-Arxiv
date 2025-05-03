@@ -76,8 +76,8 @@ def get_daily_papers(topic,query="SNN", max_results=2):
             if "official" in r and r["official"]:
                 cnt += 1
                 repo_url = r["official"]["url"]
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|[{paper_id}]({paper_url})|<div style="word-wrap: break-word; max-width: 300px;">{comments}<\div>|\n"
+                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, Paper: [{paper_url}]({paper_url}), Comments: {comments}"
 
             else:
                 content[paper_key] = f"|**{update_time}**|**{paper_title}**|[{paper_id}]({paper_url})|{comments}|\n"

@@ -1,4 +1,4 @@
-## Updated on 2025.05.03
+## Updated on 2025.05.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -213,5 +213,5 @@
 |**2024.12.07**|**Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search**|[2412.05505v1](http://arxiv.org/abs/2412.05505v1)|None|
 |**2024.12.06**|**MTSpark: Enabling Multi-Task Learning with Spiking Neural Networks for Generalist Agents**|[2412.04847v1](http://arxiv.org/abs/2412.04847v1)|9 pages, 10 figures, 5 tables|
 
-<p align=right>(<a href=#Updated-on-20250503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250504>back to top</a>)</p>
 

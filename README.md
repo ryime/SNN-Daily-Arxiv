@@ -1,4 +1,4 @@
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.05.02**|**Influence of the residual magnetic field on the azimuthal distribution of final-state particles in photon-nuclear processes**|[2505.00999v1](http://arxiv.org/abs/2505.00999v1)|None|
 |**2025.04.29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|[2504.20445v1](http://arxiv.org/abs/2504.20445v1)|Accepted by IJCNN2025|
 |**2025.04.23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|[2504.17819v1](http://arxiv.org/abs/2504.17819v1)|None|
 |**2025.04.29**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|[2504.17751v3](http://arxiv.org/abs/2504.17751v3)|None|
@@ -211,7 +212,6 @@
 |**2024.12.09**|**Spiking Neural Networks for Radio Frequency Interference Detection in Radio Astronomy**|[2412.06124v1](http://arxiv.org/abs/2412.06124v1)|27 pages, 5 figures, 5 tables. In-Review|
 |**2024.12.07**|**Towards 3D Acceleration for low-power Mixture-of-Experts and Multi-Head Attention Spiking Transformers**|[2412.05540v1](http://arxiv.org/abs/2412.05540v1)|None|
 |**2024.12.07**|**Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search**|[2412.05505v1](http://arxiv.org/abs/2412.05505v1)|None|
-|**2024.12.06**|**MTSpark: Enabling Multi-Task Learning with Spiking Neural Networks for Generalist Agents**|[2412.04847v1](http://arxiv.org/abs/2412.04847v1)|9 pages, 10 figures, 5 tables|
 
-<p align=right>(<a href=#Updated-on-20250504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250505>back to top</a>)</p>
 

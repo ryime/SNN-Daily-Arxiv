@@ -1,4 +1,4 @@
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -213,5 +213,5 @@
 |**2024.11.29**|**Average-Over-Time Spiking Neural Networks for Uncertainty Estimation in Regression**|[2412.00278v1](http://arxiv.org/abs/2412.00278v1)|None|
 |**2024.11.29**|**Hybrid Spiking Neural Network -- Transformer Video Classification Model**|[2412.00237v1](http://arxiv.org/abs/2412.00237v1)|37 pages, 11 figures. BSc Thesis in Computer Scien...|
 
-<p align=right>(<a href=#Updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
 

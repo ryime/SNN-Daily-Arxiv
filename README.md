@@ -1,4 +1,4 @@
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.05.07**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|[2505.04165v1](http://arxiv.org/abs/2505.04165v1)|Accepted by ICML2025|
+|**2025.05.07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|None|
 |**2025.05.03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|[2505.01735v1](http://arxiv.org/abs/2505.01735v1)|None|
 |**2025.05.03**|**PASCAL: Precise and Efficient ANN- SNN Conversion using Spike Accumulation and Adaptive Layerwise Activation**|[2505.01730v1](http://arxiv.org/abs/2505.01730v1)|None|
 |**2025.04.29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|[2504.20445v1](http://arxiv.org/abs/2504.20445v1)|Accepted by IJCNN2025|
@@ -151,7 +153,7 @@
 |**2025.01.28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|[2501.15151v2](http://arxiv.org/abs/2501.15151v2)|None|
 |**2024.12.19**|**Neuromorphic Spiking Neural Network Based Classification of COVID-19 Spike Sequences**|[2501.14746v1](http://arxiv.org/abs/2501.14746v1)|None|
 |**2025.02.05**|**FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks**|[2501.14744v2](http://arxiv.org/abs/2501.14744v2)|Accepted by AAAI 2025|
-|**2025.01.24**|**A Recurrent Spiking Network with Hierarchical Intrinsic Excitability Modulation for Schema Learning**|[2501.14539v1](http://arxiv.org/abs/2501.14539v1)|31 pages, 9 figures|
+|**2025.05.07**|**Emergence of Abstract Rules in Recurrent Spiking Neural Networks**|[2501.14539v2](http://arxiv.org/abs/2501.14539v2)|31 pages, 11 figures|
 |**2025.01.24**|**Channel-wise Parallelizable Spiking Neuron with Multiplication-free Dynamics and Large Temporal Receptive Fields**|[2501.14490v1](http://arxiv.org/abs/2501.14490v1)|None|
 |**2025.02.02**|**$SpikePack$: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|[2501.14484v2](http://arxiv.org/abs/2501.14484v2)|None|
 |**2025.03.23**|**Quantized Spike-driven Transformer**|[2501.13492v5](http://arxiv.org/abs/2501.13492v5)|Accepted by ICLR 2025|
@@ -210,8 +212,6 @@
 |**2024.12.04**|**Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware**|[2412.03128v1](http://arxiv.org/abs/2412.03128v1)|None|
 |**2024.12.03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|[2412.02293v1](http://arxiv.org/abs/2412.02293v1)|9 pages, 6 figures|
 |**2024.12.02**|**Gated Parametric Neuron for Spike-based Audio Recognition**|[2412.01087v1](http://arxiv.org/abs/2412.01087v1)|None|
-|**2024.11.29**|**Average-Over-Time Spiking Neural Networks for Uncertainty Estimation in Regression**|[2412.00278v1](http://arxiv.org/abs/2412.00278v1)|None|
-|**2024.11.29**|**Hybrid Spiking Neural Network -- Transformer Video Classification Model**|[2412.00237v1](http://arxiv.org/abs/2412.00237v1)|37 pages, 11 figures. BSc Thesis in Computer Scien...|
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 

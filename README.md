@@ -1,4 +1,4 @@
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
-|**2025.05.07**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|[2505.04165v1](http://arxiv.org/abs/2505.04165v1)|Accepted by ICML2025|
+|**2025.05.08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|[2505.04165v2](http://arxiv.org/abs/2505.04165v2)|Accepted by ICML2025|
 |**2025.05.07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|None|
 |**2025.05.03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|[2505.01735v1](http://arxiv.org/abs/2505.01735v1)|None|
 |**2025.05.03**|**PASCAL: Precise and Efficient ANN- SNN Conversion using Spike Accumulation and Adaptive Layerwise Activation**|[2505.01730v1](http://arxiv.org/abs/2505.01730v1)|None|
@@ -127,7 +127,7 @@
 |**2025.02.04**|**DRiVE: Dynamic Recognition in VEhicles using snnTorch**|[2502.10421v1](http://arxiv.org/abs/2502.10421v1)|6 pages, 7 figures, 3 tables, Accepted at the 2025...|
 |**2025.02.13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|None|
 |**2025.02.13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|9 pages, 6 figures, 3 tables|
-|**2025.04.24**|**Deployment-friendly Lane-changing Intention Prediction Powered by Brain-inspired Spiking Neural Networks**|[2502.08659v3](http://arxiv.org/abs/2502.08659v3)|None|
+|**2025.05.08**|**Deployment-friendly Lane-changing Intention Prediction Powered by Brain-inspired Spiking Neural Networks**|[2502.08659v4](http://arxiv.org/abs/2502.08659v4)|None|
 |**2025.02.12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|[2502.08115v1](http://arxiv.org/abs/2502.08115v1)|11 Figures, 6 Tables|
 |**2025.02.10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|[2502.06771v1](http://arxiv.org/abs/2502.06771v1)|24 pages, 21 figures, submitted to MDPI Particles|
 |**2025.02.10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|None|
@@ -213,5 +213,5 @@
 |**2024.12.03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|[2412.02293v1](http://arxiv.org/abs/2412.02293v1)|9 pages, 6 figures|
 |**2024.12.02**|**Gated Parametric Neuron for Spike-based Audio Recognition**|[2412.01087v1](http://arxiv.org/abs/2412.01087v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250509>back to top</a>)</p>
 

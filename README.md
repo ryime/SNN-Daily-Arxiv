@@ -1,4 +1,4 @@
-## Updated on 2025.05.09
+## Updated on 2025.05.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.05.08**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|[2505.05375v1](http://arxiv.org/abs/2505.05375v1)|Accepted by IJCNN 2025. \c{opyright} 2025 IEEE. Pe...|
 |**2025.05.08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|[2505.04165v2](http://arxiv.org/abs/2505.04165v2)|Accepted by ICML2025|
 |**2025.05.07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|None|
 |**2025.05.03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|[2505.01735v1](http://arxiv.org/abs/2505.01735v1)|None|
@@ -196,7 +197,6 @@
 |**2024.12.16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|[2412.11753v1](http://arxiv.org/abs/2412.11753v1)|9 pages, 4 figures, (AAAI25)The 39th Annual AAAI C...|
 |**2024.12.15**|**Deployment Pipeline from Rockpool to Xylo for Edge Computing**|[2412.11047v1](http://arxiv.org/abs/2412.11047v1)|None|
 |**2024.12.14**|**Vertically Integrated Dual-memtransistor Enabled Reconfigurable Heterosynaptic Sensorimotor Networks and In-memory Neuromorphic Computing**|[2412.10757v1](http://arxiv.org/abs/2412.10757v1)|Manuscript and Supplementary Information|
-|**2024.11.30**|**The Reliability Issue in ReRam-based CIM Architecture for SNN: A Survey**|[2412.10389v1](http://arxiv.org/abs/2412.10389v1)|None|
 |**2024.12.12**|**Distribution free uncertainty quantification in neuroscience-inspired deep operators**|[2412.09369v1](http://arxiv.org/abs/2412.09369v1)|None|
 |**2024.12.12**|**High-Speed Time Series Prediction with a GHz-rate Photonic Spiking Neural Network built with a single VCSEL**|[2412.09233v1](http://arxiv.org/abs/2412.09233v1)|16 pages, 8 figures. Submitted to Communications P...|
 |**2024.12.12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|[2412.09209v1](http://arxiv.org/abs/2412.09209v1)|None|
@@ -213,5 +213,5 @@
 |**2024.12.03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|[2412.02293v1](http://arxiv.org/abs/2412.02293v1)|9 pages, 6 figures|
 |**2024.12.02**|**Gated Parametric Neuron for Spike-based Audio Recognition**|[2412.01087v1](http://arxiv.org/abs/2412.01087v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250510>back to top</a>)</p>
 

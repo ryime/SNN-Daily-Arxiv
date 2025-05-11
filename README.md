@@ -1,4 +1,4 @@
-## Updated on 2025.05.10
+## Updated on 2025.05.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -213,5 +213,5 @@
 |**2024.12.03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|[2412.02293v1](http://arxiv.org/abs/2412.02293v1)|9 pages, 6 figures|
 |**2024.12.02**|**Gated Parametric Neuron for Spike-based Audio Recognition**|[2412.01087v1](http://arxiv.org/abs/2412.01087v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250511>back to top</a>)</p>
 

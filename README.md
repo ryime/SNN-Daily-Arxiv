@@ -1,4 +1,4 @@
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
-|**2025.05.08**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|[2505.05375v1](http://arxiv.org/abs/2505.05375v1)|Accepted by IJCNN 2025. \c{opyright} 2025 IEEE. Pe...|
+|**2025.05.09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|[2505.05375v2](http://arxiv.org/abs/2505.05375v2)|Accepted by IJCNN 2025. \c{opyright} 2025 IEEE. Pe...|
 |**2025.05.08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|[2505.04165v2](http://arxiv.org/abs/2505.04165v2)|Accepted by ICML2025|
 |**2025.05.07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|None|
 |**2025.05.03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|[2505.01735v1](http://arxiv.org/abs/2505.01735v1)|None|
@@ -213,5 +213,5 @@
 |**2024.12.03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|[2412.02293v1](http://arxiv.org/abs/2412.02293v1)|9 pages, 6 figures|
 |**2024.12.02**|**Gated Parametric Neuron for Spike-based Audio Recognition**|[2412.01087v1](http://arxiv.org/abs/2412.01087v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250512>back to top</a>)</p>
 

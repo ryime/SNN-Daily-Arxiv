@@ -1,4 +1,4 @@
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.05.09**|**CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity**|[2505.05992v1](http://arxiv.org/abs/2505.05992v1)|None|
+|**2025.05.09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|36 pages, 22 figures|
+|**2025.05.08**|**ADMM-Based Training for Spiking Neural Networks**|[2505.05527v1](http://arxiv.org/abs/2505.05527v1)|6 pages, 4 figures. Preprint submitted to IEEE MLS...|
+|**2025.04.30**|**Akkumula: Evidence accumulation driver models with Spiking Neural Networks**|[2505.05489v1](http://arxiv.org/abs/2505.05489v1)|None|
 |**2025.05.09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|[2505.05375v2](http://arxiv.org/abs/2505.05375v2)|Accepted by IJCNN 2025. \c{opyright} 2025 IEEE. Pe...|
 |**2025.05.08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|[2505.04165v2](http://arxiv.org/abs/2505.04165v2)|Accepted by ICML2025|
 |**2025.05.07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|None|
@@ -51,7 +55,7 @@
 |**2025.04.01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|[2504.00679v1](http://arxiv.org/abs/2504.00679v1)|None|
 |**2025.03.31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|None|
 |**2025.03.31**|**Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism**|[2503.23767v1](http://arxiv.org/abs/2503.23767v1)|None|
-|**2025.03.27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|[2503.21846v1](http://arxiv.org/abs/2503.21846v1)|6 pages, 3 figures, 2 tables. Submitted to confere...|
+|**2025.05.12**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|[2503.21846v2](http://arxiv.org/abs/2503.21846v2)|Accepted to AMLDS 2025 (Tokyo, July 2025). 6 pages...|
 |**2025.03.22**|**Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation**|[2503.21795v1](http://arxiv.org/abs/2503.21795v1)|Appears in the proceedings of the 2025 Neuro Inspi...|
 |**2025.03.20**|**Input-Triggered Hardware Trojan Attack on Spiking Neural Networks**|[2503.21793v1](http://arxiv.org/abs/2503.21793v1)|None|
 |**2025.03.27**|**A 71.2-$μ$W Speech Recognition Accelerator with Recurrent Spiking Neural Network**|[2503.21337v1](http://arxiv.org/abs/2503.21337v1)|None|
@@ -208,10 +212,6 @@
 |**2024.12.07**|**Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search**|[2412.05505v1](http://arxiv.org/abs/2412.05505v1)|None|
 |**2024.12.06**|**MTSpark: Enabling Multi-Task Learning with Spiking Neural Networks for Generalist Agents**|[2412.04847v1](http://arxiv.org/abs/2412.04847v1)|9 pages, 10 figures, 5 tables|
 |**2024.12.05**|**Deep-Unrolling Multidimensional Harmonic Retrieval Algorithms on Neuromorphic Hardware**|[2412.04008v1](http://arxiv.org/abs/2412.04008v1)|accepted to the 58th Asilomar Conference on Signal...|
-|**2024.12.04**|**Short-reach Optical Communications: A Real-world Task for Neuromorphic Hardware**|[2412.03129v1](http://arxiv.org/abs/2412.03129v1)|None|
-|**2024.12.04**|**Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware**|[2412.03128v1](http://arxiv.org/abs/2412.03128v1)|None|
-|**2024.12.03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|[2412.02293v1](http://arxiv.org/abs/2412.02293v1)|9 pages, 6 figures|
-|**2024.12.02**|**Gated Parametric Neuron for Spike-based Audio Recognition**|[2412.01087v1](http://arxiv.org/abs/2412.01087v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
 

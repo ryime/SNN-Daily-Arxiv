@@ -1,4 +1,4 @@
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -12,7 +12,7 @@
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
 |**2025.05.13**|**Convolutional Spiking Neural Network for Image Classification**|[2505.08514v1](http://arxiv.org/abs/2505.08514v1)|None|
-|**2025.05.13**|**Efficient, simulation-free estimators of firing rates with Markovian surrogates**|[2505.08254v1](http://arxiv.org/abs/2505.08254v1)|9 pages, 5 figures|
+|**2025.05.14**|**Efficient, simulation-free estimators of firing rates with Markovian surrogates**|[2505.08254v2](http://arxiv.org/abs/2505.08254v2)|9 pages, 5 figures|
 |**2025.05.12**|**Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning**|[2505.07921v1](http://arxiv.org/abs/2505.07921v1)|None|
 |**2025.05.12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|[2505.07715v1](http://arxiv.org/abs/2505.07715v1)|None|
 |**2025.05.12**|**Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs**|[2505.07556v1](http://arxiv.org/abs/2505.07556v1)|Presented at the Real-time Processing of Image, De...|
@@ -213,5 +213,5 @@
 |**2024.12.12**|**Distribution free uncertainty quantification in neuroscience-inspired deep operators**|[2412.09369v1](http://arxiv.org/abs/2412.09369v1)|None|
 |**2024.12.12**|**High-Speed Time Series Prediction with a GHz-rate Photonic Spiking Neural Network built with a single VCSEL**|[2412.09233v1](http://arxiv.org/abs/2412.09233v1)|16 pages, 8 figures. Submitted to Communications P...|
 
-<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250515>back to top</a>)</p>
 

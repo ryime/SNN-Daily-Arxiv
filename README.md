@@ -1,4 +1,4 @@
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -213,5 +213,5 @@
 |**2024.12.16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|[2412.11753v1](http://arxiv.org/abs/2412.11753v1)|9 pages, 4 figures, (AAAI25)The 39th Annual AAAI C...|
 |**2024.12.15**|**Deployment Pipeline from Rockpool to Xylo for Edge Computing**|[2412.11047v1](http://arxiv.org/abs/2412.11047v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
 

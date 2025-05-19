@@ -1,4 +1,4 @@
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,13 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.05.16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|[2505.11455v1](http://arxiv.org/abs/2505.11455v1)|None|
+|**2025.05.16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|[2505.11433v1](http://arxiv.org/abs/2505.11433v1)|13 pages, 6 figures, journal submission|
+|**2025.05.16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|[2505.11418v1](http://arxiv.org/abs/2505.11418v1)|None|
+|**2025.05.16**|**Lightweight LIF-only SNN accelerator using differential time encoding**|[2505.11252v1](http://arxiv.org/abs/2505.11252v1)|None|
+|**2025.05.16**|**STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking**|[2505.11151v1](http://arxiv.org/abs/2505.11151v1)|21 pages, 8 figures|
+|**2025.05.16**|**Towards Robust Spiking Neural Networks:Mitigating Heterogeneous Training Vulnerability via Dominant Eigencomponent Projection**|[2505.11134v1](http://arxiv.org/abs/2505.11134v1)|None|
+|**2025.05.16**|**Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks**|[2505.10909v1](http://arxiv.org/abs/2505.10909v1)|ISCA 2025|
 |**2025.05.15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|[2505.10371v1](http://arxiv.org/abs/2505.10371v1)|None|
 |**2025.05.15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|[2505.10352v1](http://arxiv.org/abs/2505.10352v1)|Accepted by ICML 2025|
 |**2025.05.15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|[2505.10176v1](http://arxiv.org/abs/2505.10176v1)|The manuscript is under review and the code is ava...|
@@ -28,11 +35,11 @@
 |**2025.05.08**|**ADMM-Based Training for Spiking Neural Networks**|[2505.05527v1](http://arxiv.org/abs/2505.05527v1)|6 pages, 4 figures. Preprint submitted to IEEE MLS...|
 |**2025.04.30**|**Akkumula: Evidence accumulation driver models with Spiking Neural Networks**|[2505.05489v1](http://arxiv.org/abs/2505.05489v1)|None|
 |**2025.05.09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|[2505.05375v2](http://arxiv.org/abs/2505.05375v2)|Accepted by IJCNN 2025. \c{opyright} 2025 IEEE. Pe...|
-|**2025.05.13**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|[2505.04165v3](http://arxiv.org/abs/2505.04165v3)|Accepted by ICML2025|
+|**2025.05.16**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|[2505.04165v4](http://arxiv.org/abs/2505.04165v4)|Accepted by ICML2025|
 |**2025.05.07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|None|
 |**2025.05.03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|[2505.01735v1](http://arxiv.org/abs/2505.01735v1)|None|
 |**2025.05.03**|**PASCAL: Precise and Efficient ANN- SNN Conversion using Spike Accumulation and Adaptive Layerwise Activation**|[2505.01730v1](http://arxiv.org/abs/2505.01730v1)|None|
-|**2025.04.29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|[2504.20445v1](http://arxiv.org/abs/2504.20445v1)|Accepted by IJCNN2025|
+|**2025.05.16**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|[2504.20445v2](http://arxiv.org/abs/2504.20445v2)|Accepted by IJCNN2025|
 |**2025.04.23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|[2504.17819v1](http://arxiv.org/abs/2504.17819v1)|None|
 |**2025.04.29**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|[2504.17751v3](http://arxiv.org/abs/2504.17751v3)|None|
 |**2025.04.19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|[2504.14371v1](http://arxiv.org/abs/2504.14371v1)|None|
@@ -169,7 +176,6 @@
 |**2025.01.25**|**Heterogeneous Population Encoding for Multi-joint Regression using sEMG Signals**|[2501.15347v1](http://arxiv.org/abs/2501.15347v1)|None|
 |**2025.01.28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|[2501.15151v2](http://arxiv.org/abs/2501.15151v2)|None|
 |**2024.12.19**|**Neuromorphic Spiking Neural Network Based Classification of COVID-19 Spike Sequences**|[2501.14746v1](http://arxiv.org/abs/2501.14746v1)|None|
-|**2025.02.05**|**FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks**|[2501.14744v2](http://arxiv.org/abs/2501.14744v2)|Accepted by AAAI 2025|
 |**2025.05.07**|**Emergence of Abstract Rules in Recurrent Spiking Neural Networks**|[2501.14539v2](http://arxiv.org/abs/2501.14539v2)|31 pages, 11 figures|
 |**2025.01.24**|**Channel-wise Parallelizable Spiking Neuron with Multiplication-free Dynamics and Large Temporal Receptive Fields**|[2501.14490v1](http://arxiv.org/abs/2501.14490v1)|None|
 |**2025.02.02**|**$SpikePack$: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|[2501.14484v2](http://arxiv.org/abs/2501.14484v2)|None|
@@ -206,12 +212,6 @@
 |**2024.12.18**|**Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation**|[2412.13610v1](http://arxiv.org/abs/2412.13610v1)|None|
 |**2024.12.18**|**Combining Aggregated Attention and Transformer Architecture for Accurate and Efficient Performance of Spiking Neural Networks**|[2412.13553v1](http://arxiv.org/abs/2412.13553v1)|None|
 |**2024.12.17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|[2412.12858v1](http://arxiv.org/abs/2412.12858v1)|Under Review|
-|**2025.03.05**|**SLTNet: Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|[2412.12843v2](http://arxiv.org/abs/2412.12843v2)|Submitted to 2025 IEEE/RSJ International Conferenc...|
-|**2024.12.17**|**ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning**|[2412.12696v1](http://arxiv.org/abs/2412.12696v1)|None|
-|**2025.01.19**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|[2412.12525v3](http://arxiv.org/abs/2412.12525v3)|Accepted by AAAI 2025|
-|**2024.12.16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|[2412.11810v1](http://arxiv.org/abs/2412.11810v1)|None|
-|**2024.12.16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|[2412.11753v1](http://arxiv.org/abs/2412.11753v1)|9 pages, 4 figures, (AAAI25)The 39th Annual AAAI C...|
-|**2024.12.15**|**Deployment Pipeline from Rockpool to Xylo for Edge Computing**|[2412.11047v1](http://arxiv.org/abs/2412.11047v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 

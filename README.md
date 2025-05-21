@@ -1,4 +1,4 @@
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.05.20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|[2505.14535v1](http://arxiv.org/abs/2505.14535v1)|None|
+|**2025.05.20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|[2505.14533v1](http://arxiv.org/abs/2505.14533v1)|None|
+|**2025.05.19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|None|
+|**2025.05.19**|**Spiking Neural Networks with Random Network Architecture**|[2505.13622v1](http://arxiv.org/abs/2505.13622v1)|None|
 |**2025.05.19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|Submitted to IJRR|
 |**2025.05.19**|**FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture**|[2505.12771v1](http://arxiv.org/abs/2505.12771v1)|None|
 |**2025.05.19**|**Spiking Neural Network: a low power solution for physical layer authentication**|[2505.12647v1](http://arxiv.org/abs/2505.12647v1)|11 pages, 7 figures and 2 pages|
@@ -208,10 +212,6 @@
 |**2024.12.23**|**HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics**|[2412.17571v1](http://arxiv.org/abs/2412.17571v1)|None|
 |**2024.12.23**|**Evaluation of Bio-Inspired Models under Different Learning Settings For Energy Efficiency in Network Traffic Prediction**|[2412.17565v1](http://arxiv.org/abs/2412.17565v1)|18 pages, 8 figures|
 |**2025.01.19**|**Exploiting Label Skewness for Spiking Neural Networks in Federated Learning**|[2412.17305v2](http://arxiv.org/abs/2412.17305v2)|None|
-|**2024.12.20**|**How connection probability shapes fluctuations of neural population dynamics**|[2412.16111v1](http://arxiv.org/abs/2412.16111v1)|None|
-|**2024.12.20**|**Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees**|[2412.15897v1](http://arxiv.org/abs/2412.15897v1)|Accepted for publication at SCC 2025|
-|**2024.12.20**|**Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model**|[2412.15634v1](http://arxiv.org/abs/2412.15634v1)|None|
-|**2025.03.19**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|[2412.15021v4](http://arxiv.org/abs/2412.15021v4)|38th Second Workshop on Machine Learning with New ...|
 
-<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
 

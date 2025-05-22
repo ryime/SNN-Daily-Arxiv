@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.04.14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|22 pages, 7 figures, 5 tables. This work proposes ...|
+|**2025.05.19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|[2505.14719v1](http://arxiv.org/abs/2505.14719v1)|None|
 |**2025.05.20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|[2505.14535v1](http://arxiv.org/abs/2505.14535v1)|None|
 |**2025.05.20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|[2505.14533v1](http://arxiv.org/abs/2505.14533v1)|None|
 |**2025.05.19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|None|
@@ -210,8 +212,6 @@
 |**2024.12.23**|**Contemporary implementations of spiking bio-inspired neural networks**|[2412.17926v1](http://arxiv.org/abs/2412.17926v1)|30 pages, 24 figures|
 |**2024.12.23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|[2412.17654v1](http://arxiv.org/abs/2412.17654v1)|None|
 |**2024.12.23**|**HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics**|[2412.17571v1](http://arxiv.org/abs/2412.17571v1)|None|
-|**2024.12.23**|**Evaluation of Bio-Inspired Models under Different Learning Settings For Energy Efficiency in Network Traffic Prediction**|[2412.17565v1](http://arxiv.org/abs/2412.17565v1)|18 pages, 8 figures|
-|**2025.01.19**|**Exploiting Label Skewness for Spiking Neural Networks in Federated Learning**|[2412.17305v2](http://arxiv.org/abs/2412.17305v2)|None|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
 

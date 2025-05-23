@@ -1,4 +1,4 @@
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.05.22**|**Neuromorphic-based metaheuristics: A new generation of low power, low latency and small footprint optimization algorithms**|[2505.16362v1](http://arxiv.org/abs/2505.16362v1)|None|
+|**2025.05.17**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|[2505.15840v1](http://arxiv.org/abs/2505.15840v1)|28 pages|
+|**2025.05.16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|[2505.15833v1](http://arxiv.org/abs/2505.15833v1)|None|
 |**2025.04.14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|22 pages, 7 figures, 5 tables. This work proposes ...|
 |**2025.05.19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|[2505.14719v1](http://arxiv.org/abs/2505.14719v1)|None|
 |**2025.05.20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|[2505.14535v1](http://arxiv.org/abs/2505.14535v1)|None|
@@ -209,9 +212,6 @@
 |**2024.12.31**|**Temporal Information Reconstruction and Non-Aligned Residual in Spiking Neural Networks for Speech Classification**|[2501.00348v1](http://arxiv.org/abs/2501.00348v1)|9 pages, 5 figures|
 |**2024.12.30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|[2412.20714v1](http://arxiv.org/abs/2412.20714v1)|None|
 |**2024.12.23**|**TNNGen: Automated Design of Neuromorphic Sensory Processing Units for Time-Series Clustering**|[2412.17977v1](http://arxiv.org/abs/2412.17977v1)|Published in IEEE Transactions on Circuits and Sys...|
-|**2024.12.23**|**Contemporary implementations of spiking bio-inspired neural networks**|[2412.17926v1](http://arxiv.org/abs/2412.17926v1)|30 pages, 24 figures|
-|**2024.12.23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|[2412.17654v1](http://arxiv.org/abs/2412.17654v1)|None|
-|**2024.12.23**|**HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics**|[2412.17571v1](http://arxiv.org/abs/2412.17571v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250523>back to top</a>)</p>
 

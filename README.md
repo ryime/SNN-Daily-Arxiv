@@ -1,4 +1,4 @@
-## Updated on 2025.05.24
+## Updated on 2025.05.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -213,5 +213,5 @@
 |**2024.12.30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|[2412.20714v1](http://arxiv.org/abs/2412.20714v1)|None|
 |**2024.12.23**|**TNNGen: Automated Design of Neuromorphic Sensory Processing Units for Time-Series Clustering**|[2412.17977v1](http://arxiv.org/abs/2412.17977v1)|Published in IEEE Transactions on Circuits and Sys...|
 
-<p align=right>(<a href=#Updated-on-20250524>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
 

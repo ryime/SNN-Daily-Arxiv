@@ -1,4 +1,4 @@
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,12 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.05.23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|[2505.18023v1](http://arxiv.org/abs/2505.18023v1)|None|
+|**2025.05.23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|None|
+|**2025.05.23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|[2505.17738v1](http://arxiv.org/abs/2505.17738v1)|None|
+|**2025.05.23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|None|
 |**2025.05.22**|**Neuromorphic-based metaheuristics: A new generation of low power, low latency and small footprint optimization algorithms**|[2505.16362v1](http://arxiv.org/abs/2505.16362v1)|None|
-|**2025.05.17**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|[2505.15840v1](http://arxiv.org/abs/2505.15840v1)|28 pages|
+|**2025.05.23**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|[2505.15840v2](http://arxiv.org/abs/2505.15840v2)|28 pages|
 |**2025.05.16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|[2505.15833v1](http://arxiv.org/abs/2505.15833v1)|None|
 |**2025.04.14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|22 pages, 7 figures, 5 tables. This work proposes ...|
 |**2025.05.19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|[2505.14719v1](http://arxiv.org/abs/2505.14719v1)|None|
@@ -208,10 +212,6 @@
 |**2025.01.06**|**The Robustness of Spiking Neural Networks in Federated Learning with Compression Against Non-omniscient Byzantine Attacks**|[2501.03306v1](http://arxiv.org/abs/2501.03306v1)|None|
 |**2025.01.06**|**Spiking monocular event based 6D pose estimation for space application**|[2501.02916v1](http://arxiv.org/abs/2501.02916v1)|6 pages, 2 figures, 1 table. This paper has been p...|
 |**2025.01.02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|[2501.01038v1](http://arxiv.org/abs/2501.01038v1)|13 pages, 12 figures|
-|**2025.03.21**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|[2501.00813v3](http://arxiv.org/abs/2501.00813v3)|None|
-|**2024.12.31**|**Temporal Information Reconstruction and Non-Aligned Residual in Spiking Neural Networks for Speech Classification**|[2501.00348v1](http://arxiv.org/abs/2501.00348v1)|9 pages, 5 figures|
-|**2024.12.30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|[2412.20714v1](http://arxiv.org/abs/2412.20714v1)|None|
-|**2024.12.23**|**TNNGen: Automated Design of Neuromorphic Sensory Processing Units for Time-Series Clustering**|[2412.17977v1](http://arxiv.org/abs/2412.17977v1)|Published in IEEE Transactions on Circuits and Sys...|
 
-<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
 

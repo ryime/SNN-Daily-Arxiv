@@ -1,4 +1,4 @@
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.05.26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|None|
+|**2025.05.24**|**Spiking Transformers Need High Frequency Information**|[2505.18608v1](http://arxiv.org/abs/2505.18608v1)|None|
 |**2025.05.23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|[2505.18023v1](http://arxiv.org/abs/2505.18023v1)|None|
 |**2025.05.23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|None|
 |**2025.05.23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|[2505.17738v1](http://arxiv.org/abs/2505.17738v1)|None|
@@ -60,7 +62,7 @@
 |**2025.05.03**|**PASCAL: Precise and Efficient ANN- SNN Conversion using Spike Accumulation and Adaptive Layerwise Activation**|[2505.01730v1](http://arxiv.org/abs/2505.01730v1)|None|
 |**2025.05.16**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|[2504.20445v2](http://arxiv.org/abs/2504.20445v2)|Accepted by IJCNN2025|
 |**2025.04.23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|[2504.17819v1](http://arxiv.org/abs/2504.17819v1)|None|
-|**2025.04.29**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|[2504.17751v3](http://arxiv.org/abs/2504.17751v3)|None|
+|**2025.05.25**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|[2504.17751v4](http://arxiv.org/abs/2504.17751v4)|None|
 |**2025.04.19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|[2504.14371v1](http://arxiv.org/abs/2504.14371v1)|None|
 |**2025.04.18**|**Causal pieces: analysing and improving spiking neural networks piece by piece**|[2504.14015v1](http://arxiv.org/abs/2504.14015v1)|None|
 |**2025.04.18**|**SwitchMT: An Adaptive Context Switching Methodology for Scalable Multi-Task Learning in Intelligent Autonomous Agents**|[2504.13541v1](http://arxiv.org/abs/2504.13541v1)|7 pages, 7 figures, 3 tables|
@@ -210,8 +212,6 @@
 |**2025.01.09**|**Enhanced Quantile Regression with Spiking Neural Networks for Long-Term System Health Prognostics**|[2501.05087v1](http://arxiv.org/abs/2501.05087v1)|None|
 |**2025.01.07**|**Neuromorphic Optical Tracking and Imaging of Randomly Moving Targets through Strongly Scattering Media**|[2501.03874v1](http://arxiv.org/abs/2501.03874v1)|22 pages, 6 figures|
 |**2025.01.06**|**The Robustness of Spiking Neural Networks in Federated Learning with Compression Against Non-omniscient Byzantine Attacks**|[2501.03306v1](http://arxiv.org/abs/2501.03306v1)|None|
-|**2025.01.06**|**Spiking monocular event based 6D pose estimation for space application**|[2501.02916v1](http://arxiv.org/abs/2501.02916v1)|6 pages, 2 figures, 1 table. This paper has been p...|
-|**2025.01.02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|[2501.01038v1](http://arxiv.org/abs/2501.01038v1)|13 pages, 12 figures|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 

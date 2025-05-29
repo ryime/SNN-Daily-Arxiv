@@ -1,4 +1,4 @@
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.05.28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|[2505.22035v1](http://arxiv.org/abs/2505.22035v1)|Accepted at 34th International Joint Conference on...|
 |**2025.05.27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|[2505.21185v1](http://arxiv.org/abs/2505.21185v1)|34 pages, 3 figures, 2 tables|
 |**2025.05.27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|[2505.20835v1](http://arxiv.org/abs/2505.20835v1)|None|
 |**2025.05.27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|13 pages,6 figures,4 tables|
@@ -195,7 +196,7 @@
 |**2025.01.23**|**Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm**|[2501.17172v1](http://arxiv.org/abs/2501.17172v1)|5 pages, 7 figures, conference, ISCAS 2025, accept...|
 |**2025.05.19**|**Toward Relative Positional Encoding in Spiking Transformers**|[2501.16745v2](http://arxiv.org/abs/2501.16745v2)|None|
 |**2025.01.27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|[2501.15995v1](http://arxiv.org/abs/2501.15995v1)|None|
-|**2025.01.27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|[2501.15925v1](http://arxiv.org/abs/2501.15925v1)|None|
+|**2025.05.28**|**Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|[2501.15925v2](http://arxiv.org/abs/2501.15925v2)|Accepted by ICML 2025|
 |**2025.01.27**|**ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**|[2501.15808v1](http://arxiv.org/abs/2501.15808v1)|11 pages, 8 figures|
 |**2025.01.25**|**Heterogeneous Population Encoding for Multi-joint Regression using sEMG Signals**|[2501.15347v1](http://arxiv.org/abs/2501.15347v1)|None|
 |**2025.01.28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|[2501.15151v2](http://arxiv.org/abs/2501.15151v2)|None|
@@ -211,7 +212,6 @@
 |**2025.01.14**|**Spiking Neural Network Accelerator Architecture for Differential-Time Representation using Learned Encoding**|[2501.07952v1](http://arxiv.org/abs/2501.07952v1)|None|
 |**2025.01.31**|**Efficient Event-based Delay Learning in Spiking Neural Networks**|[2501.07331v2](http://arxiv.org/abs/2501.07331v2)|None|
 |**2025.01.12**|**Temporal-Aware Spiking Transformer Hashing Based on 3D-DWT**|[2501.06786v1](http://arxiv.org/abs/2501.06786v1)|TPAMI under review. This work has been submitted t...|
-|**2025.01.10**|**Binary Event-Driven Spiking Transformer**|[2501.05904v1](http://arxiv.org/abs/2501.05904v1)|11 pages, 5 figures|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 

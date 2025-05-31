@@ -1,4 +1,4 @@
-## Updated on 2025.05.30
+## Updated on 2025.05.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -213,5 +213,5 @@
 |**2025.01.31**|**Efficient Event-based Delay Learning in Spiking Neural Networks**|[2501.07331v2](http://arxiv.org/abs/2501.07331v2)|None|
 |**2025.01.12**|**Temporal-Aware Spiking Transformer Hashing Based on 3D-DWT**|[2501.06786v1](http://arxiv.org/abs/2501.06786v1)|TPAMI under review. This work has been submitted t...|
 
-<p align=right>(<a href=#Updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250531>back to top</a>)</p>
 

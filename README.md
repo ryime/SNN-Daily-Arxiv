@@ -1,4 +1,4 @@
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 |**2025.05.30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|[2505.24137v1](http://arxiv.org/abs/2505.24137v1)|None|
 |**2025.05.28**|**PdNeuRAM: Forming-Free, Multi-Bit Pd/HfO2 ReRAM for Energy-Efficient Computing**|[2505.22789v1](http://arxiv.org/abs/2505.22789v1)|32 pages, 6 figures in main text and 7 figures in ...|
 |**2025.05.28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|[2505.22035v1](http://arxiv.org/abs/2505.22035v1)|Accepted at 34th International Joint Conference on...|
-|**2025.05.27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|[2505.21185v1](http://arxiv.org/abs/2505.21185v1)|34 pages, 3 figures, 2 tables|
+|**2025.06.02**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|[2505.21185v2](http://arxiv.org/abs/2505.21185v2)|34 pages, 3 figures, 2 tables|
 |**2025.05.27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|[2505.20835v1](http://arxiv.org/abs/2505.20835v1)|None|
 |**2025.05.27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|13 pages,6 figures,4 tables|
 |**2025.05.26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|None|
@@ -193,7 +193,7 @@
 |**2025.01.31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|[2502.00074v1](http://arxiv.org/abs/2502.00074v1)|arxiv preprint|
 |**2025.04.26**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|[2501.19259v2](http://arxiv.org/abs/2501.19259v2)|Accepted for publication at the International Join...|
 |**2025.03.02**|**Improving vision-language alignment with graph spiking hybrid Networks**|[2501.19069v2](http://arxiv.org/abs/2501.19069v2)|None|
-|**2025.01.30**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|[2501.18799v1](http://arxiv.org/abs/2501.18799v1)|Currently under review with IEEE TCAS|
+|**2025.05.31**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|[2501.18799v2](http://arxiv.org/abs/2501.18799v2)|Currently under review with IEEE TCAS|
 |**2025.01.29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|[2501.18412v1](http://arxiv.org/abs/2501.18412v1)|7 pages|
 |**2025.01.30**|**Neural Network Modeling of Microstructure Complexity Using Digital Libraries**|[2501.18189v1](http://arxiv.org/abs/2501.18189v1)|None|
 |**2025.01.29**|**PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**|[2501.17699v1](http://arxiv.org/abs/2501.17699v1)|None|
@@ -213,5 +213,5 @@
 |**2025.04.12**|**Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding**|[2501.08645v2](http://arxiv.org/abs/2501.08645v2)|None|
 |**2025.01.14**|**Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation**|[2501.08049v1](http://arxiv.org/abs/2501.08049v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250603>back to top</a>)</p>
 

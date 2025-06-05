@@ -1,4 +1,4 @@
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,14 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|None|
+|**2025.06.04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|None|
+|**2025.06.03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|[2506.03450v1](http://arxiv.org/abs/2506.03450v1)|IJCNN conference, italy, 2025, accepted, 30 June -...|
+|**2025.06.03**|**Minimal Neuron Circuits -- Part I: Resonators**|[2506.02341v1](http://arxiv.org/abs/2506.02341v1)|11 pages, 8 figures, 1 table|
+|**2025.05.12**|**Efficient ANN-SNN Conversion with Error Compensation Learning**|[2506.01968v1](http://arxiv.org/abs/2506.01968v1)|None|
+|**2025.06.02**|**The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives**|[2506.01737v1](http://arxiv.org/abs/2506.01737v1)|50 pages|
+|**2025.06.02**|**Engram Memory Encoding and Retrieval: A Neurocomputational Perspective**|[2506.01659v1](http://arxiv.org/abs/2506.01659v1)|18 pages, 7 figures, 3 tables|
+|**2025.06.01**|**Spatio-Temporal Decoupled Learning for Spiking Neural Networks**|[2506.01117v1](http://arxiv.org/abs/2506.01117v1)|None|
 |**2025.05.30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|[2505.24401v1](http://arxiv.org/abs/2505.24401v1)|None|
 |**2025.05.30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|[2505.24161v1](http://arxiv.org/abs/2505.24161v1)|None|
 |**2025.05.30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|[2505.24137v1](http://arxiv.org/abs/2505.24137v1)|None|
@@ -197,7 +205,6 @@
 |**2025.01.29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|[2501.18412v1](http://arxiv.org/abs/2501.18412v1)|7 pages|
 |**2025.01.30**|**Neural Network Modeling of Microstructure Complexity Using Digital Libraries**|[2501.18189v1](http://arxiv.org/abs/2501.18189v1)|None|
 |**2025.01.29**|**PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**|[2501.17699v1](http://arxiv.org/abs/2501.17699v1)|None|
-|**2025.01.23**|**Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm**|[2501.17172v1](http://arxiv.org/abs/2501.17172v1)|5 pages, 7 figures, conference, ISCAS 2025, accept...|
 |**2025.05.19**|**Toward Relative Positional Encoding in Spiking Transformers**|[2501.16745v2](http://arxiv.org/abs/2501.16745v2)|None|
 |**2025.01.27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|[2501.15995v1](http://arxiv.org/abs/2501.15995v1)|None|
 |**2025.05.28**|**Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|[2501.15925v2](http://arxiv.org/abs/2501.15925v2)|Accepted by ICML 2025|
@@ -205,13 +212,6 @@
 |**2025.01.25**|**Heterogeneous Population Encoding for Multi-joint Regression using sEMG Signals**|[2501.15347v1](http://arxiv.org/abs/2501.15347v1)|None|
 |**2025.01.28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|[2501.15151v2](http://arxiv.org/abs/2501.15151v2)|None|
 |**2025.05.19**|**Neuronal and structural differentiation in the emergence of abstract rules in hierarchically modulated spiking neural networks**|[2501.14539v3](http://arxiv.org/abs/2501.14539v3)|32 pages, 17 figures|
-|**2025.01.24**|**Channel-wise Parallelizable Spiking Neuron with Multiplication-free Dynamics and Large Temporal Receptive Fields**|[2501.14490v1](http://arxiv.org/abs/2501.14490v1)|None|
-|**2025.02.02**|**$SpikePack$: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|[2501.14484v2](http://arxiv.org/abs/2501.14484v2)|None|
-|**2025.03.23**|**Quantized Spike-driven Transformer**|[2501.13492v5](http://arxiv.org/abs/2501.13492v5)|Accepted by ICLR 2025|
-|**2025.01.21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|[2501.12482v1](http://arxiv.org/abs/2501.12482v1)|8 pages, 6 figures, 4 tables|
-|**2025.01.20**|**Event-based vision for egomotion estimation using precise event timing**|[2501.11554v1](http://arxiv.org/abs/2501.11554v1)|10 pages, 7 figures. Supplementary material: 4 pag...|
-|**2025.04.12**|**Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding**|[2501.08645v2](http://arxiv.org/abs/2501.08645v2)|None|
-|**2025.01.14**|**Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation**|[2501.08049v1](http://arxiv.org/abs/2501.08049v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
 

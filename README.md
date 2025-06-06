@@ -1,4 +1,4 @@
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@
 |**2025.06.01**|**Spatio-Temporal Decoupled Learning for Spiking Neural Networks**|[2506.01117v1](http://arxiv.org/abs/2506.01117v1)|None|
 |**2025.05.30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|[2505.24401v1](http://arxiv.org/abs/2505.24401v1)|None|
 |**2025.05.30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|[2505.24161v1](http://arxiv.org/abs/2505.24161v1)|None|
-|**2025.05.30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|[2505.24137v1](http://arxiv.org/abs/2505.24137v1)|None|
+|**2025.06.05**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|[2505.24137v2](http://arxiv.org/abs/2505.24137v2)|None|
 |**2025.05.28**|**PdNeuRAM: Forming-Free, Multi-Bit Pd/HfO2 ReRAM for Energy-Efficient Computing**|[2505.22789v1](http://arxiv.org/abs/2505.22789v1)|32 pages, 6 figures in main text and 7 figures in ...|
 |**2025.05.28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|[2505.22035v1](http://arxiv.org/abs/2505.22035v1)|Accepted at 34th International Joint Conference on...|
 |**2025.06.02**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|[2505.21185v2](http://arxiv.org/abs/2505.21185v2)|34 pages, 3 figures, 2 tables|
@@ -213,5 +213,5 @@
 |**2025.01.28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|[2501.15151v2](http://arxiv.org/abs/2501.15151v2)|None|
 |**2025.05.19**|**Neuronal and structural differentiation in the emergence of abstract rules in hierarchically modulated spiking neural networks**|[2501.14539v3](http://arxiv.org/abs/2501.14539v3)|32 pages, 17 figures|
 
-<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250606>back to top</a>)</p>
 

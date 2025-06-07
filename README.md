@@ -1,4 +1,4 @@
-## Updated on 2025.06.06
+## Updated on 2025.06.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|[2506.04817v1](http://arxiv.org/abs/2506.04817v1)|None|
+|**2025.06.05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|None|
 |**2025.06.04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|None|
 |**2025.06.04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|None|
 |**2025.06.03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|[2506.03450v1](http://arxiv.org/abs/2506.03450v1)|IJCNN conference, italy, 2025, accepted, 30 June -...|
@@ -210,8 +212,6 @@
 |**2025.05.28**|**Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|[2501.15925v2](http://arxiv.org/abs/2501.15925v2)|Accepted by ICML 2025|
 |**2025.01.27**|**ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**|[2501.15808v1](http://arxiv.org/abs/2501.15808v1)|11 pages, 8 figures|
 |**2025.01.25**|**Heterogeneous Population Encoding for Multi-joint Regression using sEMG Signals**|[2501.15347v1](http://arxiv.org/abs/2501.15347v1)|None|
-|**2025.01.28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|[2501.15151v2](http://arxiv.org/abs/2501.15151v2)|None|
-|**2025.05.19**|**Neuronal and structural differentiation in the emergence of abstract rules in hierarchically modulated spiking neural networks**|[2501.14539v3](http://arxiv.org/abs/2501.14539v3)|32 pages, 17 figures|
 
-<p align=right>(<a href=#Updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
 

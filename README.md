@@ -1,4 +1,4 @@
-## Updated on 2025.06.08
+## Updated on 2025.06.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|None|
+|**2025.06.06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|11 pages|
 |**2025.06.05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|[2506.04817v1](http://arxiv.org/abs/2506.04817v1)|None|
 |**2025.06.05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|None|
 |**2025.06.04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|None|
@@ -196,7 +198,7 @@
 |**2025.02.10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|None|
 |**2025.02.10**|**Low-power Spike-based Wearable Analytics on RRAM Crossbars**|[2502.06736v1](http://arxiv.org/abs/2502.06736v1)|Accepted in 2025 IEEE International Symposium on C...|
 |**2025.04.23**|**Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach**|[2502.05938v2](http://arxiv.org/abs/2502.05938v2)|This work has been accepted for presentation at th...|
-|**2025.02.09**|**QP-SNN: Quantized and Pruned Spiking Neural Networks**|[2502.05905v1](http://arxiv.org/abs/2502.05905v1)|26 pages, 17 figures, Published as a conference pa...|
+|**2025.06.08**|**QP-SNN: Quantized and Pruned Spiking Neural Networks**|[2502.05905v2](http://arxiv.org/abs/2502.05905v2)|26 pages, 17 figures, Published as a conference pa...|
 |**2025.02.08**|**Do Spikes Protect Privacy? Investigating Black-Box Model Inversion Attacks in Spiking Neural Networks**|[2502.05509v1](http://arxiv.org/abs/2502.05509v1)|7 pages, 4 figures|
 |**2025.02.17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|24 pages, 23 figures, under review at IEEE TC|
 |**2025.02.03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|[2502.01837v1](http://arxiv.org/abs/2502.01837v1)|9 pages, 2 figures|
@@ -206,12 +208,6 @@
 |**2025.05.31**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|[2501.18799v2](http://arxiv.org/abs/2501.18799v2)|Currently under review with IEEE TCAS|
 |**2025.01.29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|[2501.18412v1](http://arxiv.org/abs/2501.18412v1)|7 pages|
 |**2025.01.30**|**Neural Network Modeling of Microstructure Complexity Using Digital Libraries**|[2501.18189v1](http://arxiv.org/abs/2501.18189v1)|None|
-|**2025.01.29**|**PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**|[2501.17699v1](http://arxiv.org/abs/2501.17699v1)|None|
-|**2025.05.19**|**Toward Relative Positional Encoding in Spiking Transformers**|[2501.16745v2](http://arxiv.org/abs/2501.16745v2)|None|
-|**2025.01.27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|[2501.15995v1](http://arxiv.org/abs/2501.15995v1)|None|
-|**2025.05.28**|**Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|[2501.15925v2](http://arxiv.org/abs/2501.15925v2)|Accepted by ICML 2025|
-|**2025.01.27**|**ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**|[2501.15808v1](http://arxiv.org/abs/2501.15808v1)|11 pages, 8 figures|
-|**2025.01.25**|**Heterogeneous Population Encoding for Multi-joint Regression using sEMG Signals**|[2501.15347v1](http://arxiv.org/abs/2501.15347v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 

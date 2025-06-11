@@ -1,4 +1,4 @@
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,12 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|[2506.08842v1](http://arxiv.org/abs/2506.08842v1)|None|
+|**2025.06.09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|[2506.08138v1](http://arxiv.org/abs/2506.08138v1)|None|
+|**2025.06.09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|[2506.07737v1](http://arxiv.org/abs/2506.07737v1)|None|
+|**2025.06.09**|**ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks**|[2506.07720v1](http://arxiv.org/abs/2506.07720v1)|Accpeted by ICML2024|
+|**2025.06.07**|**Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules**|[2506.06750v1](http://arxiv.org/abs/2506.06750v1)|None|
+|**2025.06.04**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|[2506.06374v1](http://arxiv.org/abs/2506.06374v1)|None|
 |**2025.06.06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|None|
 |**2025.06.06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|11 pages|
 |**2025.06.05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|[2506.04817v1](http://arxiv.org/abs/2506.04817v1)|None|
@@ -180,7 +186,7 @@
 |**2025.02.19**|**Dynamic Activation with Knowledge Distillation for Energy-Efficient Spiking NN Ensembles**|[2502.14023v1](http://arxiv.org/abs/2502.14023v1)|None|
 |**2025.02.19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|[2502.13572v1](http://arxiv.org/abs/2502.13572v1)|None|
 |**2025.02.19**|**SNN-Driven Multimodal Human Action Recognition via Event Camera and Skeleton Data Fusion**|[2502.13385v1](http://arxiv.org/abs/2502.13385v1)|None|
-|**2025.03.16**|**On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis**|[2502.13191v2](http://arxiv.org/abs/2502.13191v2)|13 pages, 6 figures|
+|**2025.06.10**|**On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis**|[2502.13191v3](http://arxiv.org/abs/2502.13191v3)|14 pages, 6 figures|
 |**2025.04.21**|**Activation-wise Propagation: A Universal Strategy to Break Timestep Constraints in Spiking Neural Networks for 3D Data Processing**|[2502.12791v2](http://arxiv.org/abs/2502.12791v2)|None|
 |**2025.02.18**|**Neuromorphic Readout for Hadron Calorimeters**|[2502.12693v1](http://arxiv.org/abs/2502.12693v1)|15 pages, 12 figures, submitted to MDPI Particles|
 |**2025.02.18**|**Spiking Vision Transformer with Saccadic Attention**|[2502.12677v1](http://arxiv.org/abs/2502.12677v1)|Published as a conference paper at ICLR 2025|
@@ -206,8 +212,6 @@
 |**2025.04.26**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|[2501.19259v2](http://arxiv.org/abs/2501.19259v2)|Accepted for publication at the International Join...|
 |**2025.03.02**|**Improving vision-language alignment with graph spiking hybrid Networks**|[2501.19069v2](http://arxiv.org/abs/2501.19069v2)|None|
 |**2025.05.31**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|[2501.18799v2](http://arxiv.org/abs/2501.18799v2)|Currently under review with IEEE TCAS|
-|**2025.01.29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|[2501.18412v1](http://arxiv.org/abs/2501.18412v1)|7 pages|
-|**2025.01.30**|**Neural Network Modeling of Microstructure Complexity Using Digital Libraries**|[2501.18189v1](http://arxiv.org/abs/2501.18189v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 

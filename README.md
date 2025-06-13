@@ -1,4 +1,4 @@
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@
 |**2025.06.04**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|[2506.06374v1](http://arxiv.org/abs/2506.06374v1)|None|
 |**2025.06.06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|None|
 |**2025.06.06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|11 pages|
-|**2025.06.05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|[2506.04817v1](http://arxiv.org/abs/2506.04817v1)|None|
+|**2025.06.12**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|[2506.04817v2](http://arxiv.org/abs/2506.04817v2)|None|
 |**2025.06.05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|None|
 |**2025.06.04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|None|
 |**2025.06.04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|None|
@@ -213,5 +213,5 @@
 |**2025.02.17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|24 pages, 23 figures, under review at IEEE TC|
 |**2025.02.03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|[2502.01837v1](http://arxiv.org/abs/2502.01837v1)|9 pages, 2 figures|
 
-<p align=right>(<a href=#Updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250613>back to top</a>)</p>
 

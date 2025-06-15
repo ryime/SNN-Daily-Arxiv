@@ -1,4 +1,4 @@
-## Updated on 2025.06.14
+## Updated on 2025.06.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -213,5 +213,5 @@
 |**2025.02.17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|24 pages, 23 figures, under review at IEEE TC|
 |**2025.02.03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|[2502.01837v1](http://arxiv.org/abs/2502.01837v1)|9 pages, 2 figures|
 
-<p align=right>(<a href=#Updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250615>back to top</a>)</p>
 

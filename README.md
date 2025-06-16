@@ -1,4 +1,4 @@
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|[2506.11760v1](http://arxiv.org/abs/2506.11760v1)|7 pages, 4 figures. Accepted in Proceedings of Neu...|
+|**2025.06.12**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|[2506.11286v1](http://arxiv.org/abs/2506.11286v1)|None|
 |**2025.06.11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|11 pages, 5 figures|
 |**2025.06.11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|[2506.09599v1](http://arxiv.org/abs/2506.09599v1)|ICT45 2025 submission|
 |**2025.06.10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|[2506.09194v1](http://arxiv.org/abs/2506.09194v1)|4 pages, 5 figures, 1 table. Accepted at the 2025 ...|
@@ -20,7 +22,7 @@
 |**2025.06.11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|[2506.07737v2](http://arxiv.org/abs/2506.07737v2)|None|
 |**2025.06.09**|**ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks**|[2506.07720v1](http://arxiv.org/abs/2506.07720v1)|Accpeted by ICML2024|
 |**2025.06.07**|**Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules**|[2506.06750v1](http://arxiv.org/abs/2506.06750v1)|None|
-|**2025.06.04**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|[2506.06374v1](http://arxiv.org/abs/2506.06374v1)|None|
+|**2025.06.13**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|[2506.06374v2](http://arxiv.org/abs/2506.06374v2)|None|
 |**2025.06.06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|None|
 |**2025.06.06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|11 pages|
 |**2025.06.12**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|[2506.04817v2](http://arxiv.org/abs/2506.04817v2)|None|
@@ -43,7 +45,7 @@
 |**2025.05.27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|13 pages,6 figures,4 tables|
 |**2025.05.26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|None|
 |**2025.05.24**|**Spiking Transformers Need High Frequency Information**|[2505.18608v1](http://arxiv.org/abs/2505.18608v1)|None|
-|**2025.05.23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|[2505.18023v1](http://arxiv.org/abs/2505.18023v1)|None|
+|**2025.06.13**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|[2505.18023v2](http://arxiv.org/abs/2505.18023v2)|None|
 |**2025.05.23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|None|
 |**2025.05.23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|[2505.17738v1](http://arxiv.org/abs/2505.17738v1)|None|
 |**2025.05.23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|None|
@@ -199,7 +201,6 @@
 |**2025.02.16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|[2502.10946v1](http://arxiv.org/abs/2502.10946v1)|None|
 |**2025.02.05**|**Spiking Neural Network Feature Discrimination Boosts Modality Fusion**|[2502.10423v1](http://arxiv.org/abs/2502.10423v1)|None|
 |**2025.02.05**|**DA-LIF: Dual Adaptive Leaky Integrate-and-Fire Model for Deep Spiking Neural Networks**|[2502.10422v1](http://arxiv.org/abs/2502.10422v1)|Accepted by ICASSP 2025|
-|**2025.02.04**|**DRiVE: Dynamic Recognition in VEhicles using snnTorch**|[2502.10421v1](http://arxiv.org/abs/2502.10421v1)|6 pages, 7 figures, 3 tables, Accepted at the 2025...|
 |**2025.02.13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|None|
 |**2025.02.13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|9 pages, 6 figures, 3 tables|
 |**2025.05.08**|**Deployment-friendly Lane-changing Intention Prediction Powered by Brain-inspired Spiking Neural Networks**|[2502.08659v4](http://arxiv.org/abs/2502.08659v4)|None|
@@ -211,7 +212,6 @@
 |**2025.06.08**|**QP-SNN: Quantized and Pruned Spiking Neural Networks**|[2502.05905v2](http://arxiv.org/abs/2502.05905v2)|26 pages, 17 figures, Published as a conference pa...|
 |**2025.02.08**|**Do Spikes Protect Privacy? Investigating Black-Box Model Inversion Attacks in Spiking Neural Networks**|[2502.05509v1](http://arxiv.org/abs/2502.05509v1)|7 pages, 4 figures|
 |**2025.02.17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|24 pages, 23 figures, under review at IEEE TC|
-|**2025.02.03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|[2502.01837v1](http://arxiv.org/abs/2502.01837v1)|9 pages, 2 figures|
 
-<p align=right>(<a href=#Updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
 

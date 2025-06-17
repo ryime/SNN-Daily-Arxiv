@@ -1,4 +1,4 @@
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,12 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|[2506.13416v1](http://arxiv.org/abs/2506.13416v1)|This paper has been accepted and will be presented...|
+|**2025.06.16**|**Training Neural Networks by Optimizing Neuron Positions**|[2506.13410v1](http://arxiv.org/abs/2506.13410v1)|This paper has been accepted and will be presented...|
+|**2025.06.16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|[2506.13400v1](http://arxiv.org/abs/2506.13400v1)|This paper was accepted and presented at the 2025 ...|
+|**2025.06.16**|**Probabilistic Modeling of Spiking Neural Networks with Contract-Based Verification**|[2506.13340v1](http://arxiv.org/abs/2506.13340v1)|15pages, 6figures, conference|
+|**2025.06.16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|[2506.13268v1](http://arxiv.org/abs/2506.13268v1)|None|
+|**2025.06.10**|**Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity**|[2506.12087v1](http://arxiv.org/abs/2506.12087v1)|None|
 |**2025.06.13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|[2506.11760v1](http://arxiv.org/abs/2506.11760v1)|7 pages, 4 figures. Accepted in Proceedings of Neu...|
 |**2025.06.12**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|[2506.11286v1](http://arxiv.org/abs/2506.11286v1)|None|
 |**2025.06.11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|11 pages, 5 figures|
@@ -29,7 +35,7 @@
 |**2025.06.05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|None|
 |**2025.06.04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|None|
 |**2025.06.04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|None|
-|**2025.06.03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|[2506.03450v1](http://arxiv.org/abs/2506.03450v1)|IJCNN conference, italy, 2025, accepted, 30 June -...|
+|**2025.06.16**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|[2506.03450v2](http://arxiv.org/abs/2506.03450v2)|IJCNN conference, Italy, 2025, accepted, 30 June -...|
 |**2025.06.03**|**Minimal Neuron Circuits -- Part I: Resonators**|[2506.02341v1](http://arxiv.org/abs/2506.02341v1)|11 pages, 8 figures, 1 table|
 |**2025.05.12**|**Efficient ANN-SNN Conversion with Error Compensation Learning**|[2506.01968v1](http://arxiv.org/abs/2506.01968v1)|None|
 |**2025.06.02**|**The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives**|[2506.01737v1](http://arxiv.org/abs/2506.01737v1)|50 pages|
@@ -199,19 +205,13 @@
 |**2025.02.18**|**Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning**|[2502.12488v1](http://arxiv.org/abs/2502.12488v1)|The manuscript is under review and the code is ava...|
 |**2025.02.13**|**Application-oriented automatic hyperparameter optimization for spiking neural network prototyping**|[2502.12172v1](http://arxiv.org/abs/2502.12172v1)|None|
 |**2025.02.16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|[2502.10946v1](http://arxiv.org/abs/2502.10946v1)|None|
-|**2025.02.05**|**Spiking Neural Network Feature Discrimination Boosts Modality Fusion**|[2502.10423v1](http://arxiv.org/abs/2502.10423v1)|None|
-|**2025.02.05**|**DA-LIF: Dual Adaptive Leaky Integrate-and-Fire Model for Deep Spiking Neural Networks**|[2502.10422v1](http://arxiv.org/abs/2502.10422v1)|Accepted by ICASSP 2025|
 |**2025.02.13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|None|
 |**2025.02.13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|9 pages, 6 figures, 3 tables|
-|**2025.05.08**|**Deployment-friendly Lane-changing Intention Prediction Powered by Brain-inspired Spiking Neural Networks**|[2502.08659v4](http://arxiv.org/abs/2502.08659v4)|None|
 |**2025.02.12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|[2502.08115v1](http://arxiv.org/abs/2502.08115v1)|11 Figures, 6 Tables|
 |**2025.02.10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|[2502.06771v1](http://arxiv.org/abs/2502.06771v1)|24 pages, 21 figures, submitted to MDPI Particles|
 |**2025.02.10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|None|
 |**2025.02.10**|**Low-power Spike-based Wearable Analytics on RRAM Crossbars**|[2502.06736v1](http://arxiv.org/abs/2502.06736v1)|Accepted in 2025 IEEE International Symposium on C...|
 |**2025.04.23**|**Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach**|[2502.05938v2](http://arxiv.org/abs/2502.05938v2)|This work has been accepted for presentation at th...|
-|**2025.06.08**|**QP-SNN: Quantized and Pruned Spiking Neural Networks**|[2502.05905v2](http://arxiv.org/abs/2502.05905v2)|26 pages, 17 figures, Published as a conference pa...|
-|**2025.02.08**|**Do Spikes Protect Privacy? Investigating Black-Box Model Inversion Attacks in Spiking Neural Networks**|[2502.05509v1](http://arxiv.org/abs/2502.05509v1)|7 pages, 4 figures|
-|**2025.02.17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|24 pages, 23 figures, under review at IEEE TC|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 

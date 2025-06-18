@@ -1,4 +1,4 @@
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|None|
+|**2025.06.17**|**GHz spiking neuromorphic photonic chip with in-situ training**|[2506.14272v1](http://arxiv.org/abs/2506.14272v1)|18 pages, 4 figures|
+|**2025.06.17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|[2506.14138v1](http://arxiv.org/abs/2506.14138v1)|Neuromorphic computing, FPGA, STDP, Spiking Graph ...|
 |**2025.06.16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|[2506.13416v1](http://arxiv.org/abs/2506.13416v1)|This paper has been accepted and will be presented...|
 |**2025.06.16**|**Training Neural Networks by Optimizing Neuron Positions**|[2506.13410v1](http://arxiv.org/abs/2506.13410v1)|This paper has been accepted and will be presented...|
 |**2025.06.16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|[2506.13400v1](http://arxiv.org/abs/2506.13400v1)|This paper was accepted and presented at the 2025 ...|
@@ -59,7 +62,7 @@
 |**2025.05.23**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|[2505.15840v2](http://arxiv.org/abs/2505.15840v2)|28 pages|
 |**2025.05.16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|[2505.15833v1](http://arxiv.org/abs/2505.15833v1)|None|
 |**2025.04.14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|22 pages, 7 figures, 5 tables. This work proposes ...|
-|**2025.05.19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|[2505.14719v1](http://arxiv.org/abs/2505.14719v1)|None|
+|**2025.06.17**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|[2505.14719v2](http://arxiv.org/abs/2505.14719v2)|11pages, 2figures, accepted by IJCAI'25 (34th Inte...|
 |**2025.05.20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|[2505.14535v1](http://arxiv.org/abs/2505.14535v1)|None|
 |**2025.05.20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|[2505.14533v1](http://arxiv.org/abs/2505.14533v1)|None|
 |**2025.05.19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|None|
@@ -156,7 +159,7 @@
 |**2025.04.27**|**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**|[2503.10195v2](http://arxiv.org/abs/2503.10195v2)|13 pages, 6 figures, 6 tables; This work has been ...|
 |**2025.03.13**|**DTA: Dual Temporal-channel-wise Attention for Spiking Neural Networks**|[2503.10052v1](http://arxiv.org/abs/2503.10052v1)|Accepted by IEEE/CVF Winter Conference on Applicat...|
 |**2025.03.19**|**ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network**|[2503.09985v2](http://arxiv.org/abs/2503.09985v2)|None|
-|**2025.03.09**|**SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks**|[2503.08703v1](http://arxiv.org/abs/2503.08703v1)|11 pages,7 figures,4 tables|
+|**2025.06.17**|**SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks**|[2503.08703v2](http://arxiv.org/abs/2503.08703v2)|11 pages,7 figures,4 tables|
 |**2025.03.09**|**Characterizing Learning in Spiking Neural Networks with Astrocyte-Like Units**|[2503.06798v1](http://arxiv.org/abs/2503.06798v1)|6 pages, 4 figures|
 |**2025.03.09**|**Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA**|[2503.06629v1](http://arxiv.org/abs/2503.06629v1)|Paper accepted for the 21st International Symposiu...|
 |**2025.03.07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|[2503.05112v1](http://arxiv.org/abs/2503.05112v1)|None|
@@ -209,9 +212,6 @@
 |**2025.02.13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|9 pages, 6 figures, 3 tables|
 |**2025.02.12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|[2502.08115v1](http://arxiv.org/abs/2502.08115v1)|11 Figures, 6 Tables|
 |**2025.02.10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|[2502.06771v1](http://arxiv.org/abs/2502.06771v1)|24 pages, 21 figures, submitted to MDPI Particles|
-|**2025.02.10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|None|
-|**2025.02.10**|**Low-power Spike-based Wearable Analytics on RRAM Crossbars**|[2502.06736v1](http://arxiv.org/abs/2502.06736v1)|Accepted in 2025 IEEE International Symposium on C...|
-|**2025.04.23**|**Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach**|[2502.05938v2](http://arxiv.org/abs/2502.05938v2)|This work has been accepted for presentation at th...|
 
-<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
 

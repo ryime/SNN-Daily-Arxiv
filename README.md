@@ -1,4 +1,4 @@
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|[2506.14984v1](http://arxiv.org/abs/2506.14984v1)|Repository containing the source code used to gene...|
 |**2025.06.17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|None|
 |**2025.06.17**|**GHz spiking neuromorphic photonic chip with in-situ training**|[2506.14272v1](http://arxiv.org/abs/2506.14272v1)|18 pages, 4 figures|
 |**2025.06.17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|[2506.14138v1](http://arxiv.org/abs/2506.14138v1)|Neuromorphic computing, FPGA, STDP, Spiking Graph ...|
@@ -62,7 +63,7 @@
 |**2025.05.23**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|[2505.15840v2](http://arxiv.org/abs/2505.15840v2)|28 pages|
 |**2025.05.16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|[2505.15833v1](http://arxiv.org/abs/2505.15833v1)|None|
 |**2025.04.14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|22 pages, 7 figures, 5 tables. This work proposes ...|
-|**2025.06.17**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|[2505.14719v2](http://arxiv.org/abs/2505.14719v2)|11pages, 2figures, accepted by IJCAI'25 (34th Inte...|
+|**2025.06.18**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|[2505.14719v3](http://arxiv.org/abs/2505.14719v3)|11pages, 2figures, accepted by IJCAI'25 (34th Inte...|
 |**2025.05.20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|[2505.14535v1](http://arxiv.org/abs/2505.14535v1)|None|
 |**2025.05.20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|[2505.14533v1](http://arxiv.org/abs/2505.14533v1)|None|
 |**2025.05.19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|None|
@@ -211,7 +212,6 @@
 |**2025.02.13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|None|
 |**2025.02.13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|9 pages, 6 figures, 3 tables|
 |**2025.02.12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|[2502.08115v1](http://arxiv.org/abs/2502.08115v1)|11 Figures, 6 Tables|
-|**2025.02.10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|[2502.06771v1](http://arxiv.org/abs/2502.06771v1)|24 pages, 21 figures, submitted to MDPI Particles|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 

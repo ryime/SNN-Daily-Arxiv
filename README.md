@@ -1,4 +1,4 @@
-## Updated on 2025.06.19
+## Updated on 2025.06.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -213,5 +213,5 @@
 |**2025.02.13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|9 pages, 6 figures, 3 tables|
 |**2025.02.12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|[2502.08115v1](http://arxiv.org/abs/2502.08115v1)|11 Figures, 6 Tables|
 
-<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 

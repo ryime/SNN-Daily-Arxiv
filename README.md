@@ -1,4 +1,4 @@
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.20**|**Continual Learning with Columnar Spiking Neural Networks**|[2506.17169v1](http://arxiv.org/abs/2506.17169v1)|12 pages, 3 figures|
 |**2025.06.17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|[2506.14984v1](http://arxiv.org/abs/2506.14984v1)|Repository containing the source code used to gene...|
 |**2025.06.17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|None|
 |**2025.06.17**|**GHz spiking neuromorphic photonic chip with in-situ training**|[2506.14272v1](http://arxiv.org/abs/2506.14272v1)|18 pages, 4 figures|
@@ -211,7 +212,6 @@
 |**2025.02.16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|[2502.10946v1](http://arxiv.org/abs/2502.10946v1)|None|
 |**2025.02.13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|None|
 |**2025.02.13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|9 pages, 6 figures, 3 tables|
-|**2025.02.12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|[2502.08115v1](http://arxiv.org/abs/2502.08115v1)|11 Figures, 6 Tables|
 
-<p align=right>(<a href=#Updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
 

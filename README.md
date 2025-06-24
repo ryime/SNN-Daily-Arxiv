@@ -1,4 +1,4 @@
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.23**|**Spiffy: Efficient Implementation of CoLaNET for Raspberry Pi**|[2506.18306v1](http://arxiv.org/abs/2506.18306v1)|7 pages, 3 figures|
 |**2025.06.20**|**Continual Learning with Columnar Spiking Neural Networks**|[2506.17169v1](http://arxiv.org/abs/2506.17169v1)|12 pages, 3 figures|
 |**2025.06.17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|[2506.14984v1](http://arxiv.org/abs/2506.14984v1)|Repository containing the source code used to gene...|
 |**2025.06.17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|None|
@@ -73,7 +74,7 @@
 |**2025.05.19**|**FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture**|[2505.12771v1](http://arxiv.org/abs/2505.12771v1)|None|
 |**2025.05.19**|**Spiking Neural Network: a low power solution for physical layer authentication**|[2505.12647v1](http://arxiv.org/abs/2505.12647v1)|11 pages, 7 figures and 2 pages|
 |**2025.05.18**|**SpikeX: Exploring Accelerator Architecture and Network-Hardware Co-Optimization for Sparse Spiking Neural Networks**|[2505.12292v1](http://arxiv.org/abs/2505.12292v1)|The paper has been accepted by IEEE TCAD|
-|**2025.05.18**|**Bridging Quantized Artificial Neural Networks and Neuromorphic Hardware**|[2505.12221v1](http://arxiv.org/abs/2505.12221v1)|None|
+|**2025.06.22**|**Bridging Quantized Artificial Neural Networks and Neuromorphic Hardware**|[2505.12221v2](http://arxiv.org/abs/2505.12221v2)|None|
 |**2025.05.17**|**Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics**|[2505.11863v1](http://arxiv.org/abs/2505.11863v1)|14 pages, 7 figures, 8 tables, Will be published a...|
 |**2025.05.16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|[2505.11455v1](http://arxiv.org/abs/2505.11455v1)|None|
 |**2025.05.16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|[2505.11433v1](http://arxiv.org/abs/2505.11433v1)|13 pages, 6 figures, journal submission|
@@ -208,10 +209,9 @@
 |**2025.02.18**|**Neuromorphic Readout for Hadron Calorimeters**|[2502.12693v1](http://arxiv.org/abs/2502.12693v1)|15 pages, 12 figures, submitted to MDPI Particles|
 |**2025.02.18**|**Spiking Vision Transformer with Saccadic Attention**|[2502.12677v1](http://arxiv.org/abs/2502.12677v1)|Published as a conference paper at ICLR 2025|
 |**2025.02.18**|**Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning**|[2502.12488v1](http://arxiv.org/abs/2502.12488v1)|The manuscript is under review and the code is ava...|
-|**2025.02.13**|**Application-oriented automatic hyperparameter optimization for spiking neural network prototyping**|[2502.12172v1](http://arxiv.org/abs/2502.12172v1)|None|
 |**2025.02.16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|[2502.10946v1](http://arxiv.org/abs/2502.10946v1)|None|
 |**2025.02.13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|None|
 |**2025.02.13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|9 pages, 6 figures, 3 tables|
 
-<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
 

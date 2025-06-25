@@ -1,4 +1,4 @@
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.24**|**A Unified Platform to Evaluate STDP Learning Rule and Synapse Model using Pattern Recognition in a Spiking Neural Network**|[2506.19377v1](http://arxiv.org/abs/2506.19377v1)|This is a preprint with 12 pages and 12 figures. I...|
+|**2025.06.24**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|[2506.19256v1](http://arxiv.org/abs/2506.19256v1)|Code is available at
+  https://github.com/ZBX05/Te...|
 |**2025.06.23**|**Spiffy: Efficient Implementation of CoLaNET for Raspberry Pi**|[2506.18306v1](http://arxiv.org/abs/2506.18306v1)|7 pages, 3 figures|
 |**2025.06.20**|**Continual Learning with Columnar Spiking Neural Networks**|[2506.17169v1](http://arxiv.org/abs/2506.17169v1)|12 pages, 3 figures|
 |**2025.06.17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|[2506.14984v1](http://arxiv.org/abs/2506.14984v1)|Repository containing the source code used to gene...|
@@ -210,8 +213,6 @@
 |**2025.02.18**|**Spiking Vision Transformer with Saccadic Attention**|[2502.12677v1](http://arxiv.org/abs/2502.12677v1)|Published as a conference paper at ICLR 2025|
 |**2025.02.18**|**Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning**|[2502.12488v1](http://arxiv.org/abs/2502.12488v1)|The manuscript is under review and the code is ava...|
 |**2025.02.16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|[2502.10946v1](http://arxiv.org/abs/2502.10946v1)|None|
-|**2025.02.13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|None|
-|**2025.02.13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|9 pages, 6 figures, 3 tables|
 
-<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
 

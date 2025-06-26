@@ -1,4 +1,4 @@
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -214,5 +214,5 @@
 |**2025.02.18**|**Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning**|[2502.12488v1](http://arxiv.org/abs/2502.12488v1)|The manuscript is under review and the code is ava...|
 |**2025.02.16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|[2502.10946v1](http://arxiv.org/abs/2502.10946v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
 

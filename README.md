@@ -1,4 +1,4 @@
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|[2506.21363v1](http://arxiv.org/abs/2506.21363v1)|8 pages, 5 figures|
+|**2025.06.26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|[2506.21324v1](http://arxiv.org/abs/2506.21324v1)|None|
+|**2025.06.25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|[2506.20782v1](http://arxiv.org/abs/2506.20782v1)|8 pages, 2 figures, patent pending|
 |**2025.06.24**|**A Unified Platform to Evaluate STDP Learning Rule and Synapse Model using Pattern Recognition in a Spiking Neural Network**|[2506.19377v1](http://arxiv.org/abs/2506.19377v1)|This is a preprint with 12 pages and 12 figures. I...|
 |**2025.06.24**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|[2506.19256v1](http://arxiv.org/abs/2506.19256v1)|Code is available at
   https://github.com/ZBX05/Te...|
@@ -110,7 +113,7 @@
 |**2025.05.16**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|[2504.20445v2](http://arxiv.org/abs/2504.20445v2)|Accepted by IJCNN2025|
 |**2025.04.23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|[2504.17819v1](http://arxiv.org/abs/2504.17819v1)|None|
 |**2025.05.25**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|[2504.17751v4](http://arxiv.org/abs/2504.17751v4)|None|
-|**2025.04.19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|[2504.14371v1](http://arxiv.org/abs/2504.14371v1)|None|
+|**2025.06.26**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|[2504.14371v2](http://arxiv.org/abs/2504.14371v2)|Accepted by ICCV 2025|
 |**2025.04.18**|**Causal pieces: analysing and improving spiking neural networks piece by piece**|[2504.14015v1](http://arxiv.org/abs/2504.14015v1)|None|
 |**2025.04.18**|**SwitchMT: An Adaptive Context Switching Methodology for Scalable Multi-Task Learning in Intelligent Autonomous Agents**|[2504.13541v1](http://arxiv.org/abs/2504.13541v1)|7 pages, 7 figures, 3 tables|
 |**2025.04.17**|**Revisiting the Haken Lighthouse Model**|[2504.12821v1](http://arxiv.org/abs/2504.12821v1)|27 pages, 12 figures|
@@ -210,9 +213,6 @@
 |**2025.06.11**|**On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis**|[2502.13191v4](http://arxiv.org/abs/2502.13191v4)|14 pages, 6 figures|
 |**2025.04.21**|**Activation-wise Propagation: A Universal Strategy to Break Timestep Constraints in Spiking Neural Networks for 3D Data Processing**|[2502.12791v2](http://arxiv.org/abs/2502.12791v2)|None|
 |**2025.02.18**|**Neuromorphic Readout for Hadron Calorimeters**|[2502.12693v1](http://arxiv.org/abs/2502.12693v1)|15 pages, 12 figures, submitted to MDPI Particles|
-|**2025.02.18**|**Spiking Vision Transformer with Saccadic Attention**|[2502.12677v1](http://arxiv.org/abs/2502.12677v1)|Published as a conference paper at ICLR 2025|
-|**2025.02.18**|**Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning**|[2502.12488v1](http://arxiv.org/abs/2502.12488v1)|The manuscript is under review and the code is ava...|
-|**2025.02.16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|[2502.10946v1](http://arxiv.org/abs/2502.10946v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250627>back to top</a>)</p>
 

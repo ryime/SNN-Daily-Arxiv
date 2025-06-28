@@ -1,4 +1,4 @@
-## Updated on 2025.06.27
+## Updated on 2025.06.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -214,5 +214,5 @@
 |**2025.04.21**|**Activation-wise Propagation: A Universal Strategy to Break Timestep Constraints in Spiking Neural Networks for 3D Data Processing**|[2502.12791v2](http://arxiv.org/abs/2502.12791v2)|None|
 |**2025.02.18**|**Neuromorphic Readout for Hadron Calorimeters**|[2502.12693v1](http://arxiv.org/abs/2502.12693v1)|15 pages, 12 figures, submitted to MDPI Particles|
 
-<p align=right>(<a href=#Updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250628>back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.06.27**|**Unified Memcapacitor-Memristor Memory for Synaptic Weights and Neuron Temporal Dynamics**|[2506.22227v1](http://arxiv.org/abs/2506.22227v1)|2 pages, accepted and discussed at Silicon Nanoele...|
 |**2025.06.26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|[2506.21363v1](http://arxiv.org/abs/2506.21363v1)|8 pages, 5 figures|
 |**2025.06.26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|[2506.21324v1](http://arxiv.org/abs/2506.21324v1)|None|
 |**2025.06.25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|[2506.20782v1](http://arxiv.org/abs/2506.20782v1)|8 pages, 2 figures, patent pending|
@@ -212,7 +213,6 @@
 |**2025.02.19**|**SNN-Driven Multimodal Human Action Recognition via Event Camera and Skeleton Data Fusion**|[2502.13385v1](http://arxiv.org/abs/2502.13385v1)|None|
 |**2025.06.11**|**On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis**|[2502.13191v4](http://arxiv.org/abs/2502.13191v4)|14 pages, 6 figures|
 |**2025.04.21**|**Activation-wise Propagation: A Universal Strategy to Break Timestep Constraints in Spiking Neural Networks for 3D Data Processing**|[2502.12791v2](http://arxiv.org/abs/2502.12791v2)|None|
-|**2025.02.18**|**Neuromorphic Readout for Hadron Calorimeters**|[2502.12693v1](http://arxiv.org/abs/2502.12693v1)|15 pages, 12 figures, submitted to MDPI Particles|
 
-<p align=right>(<a href=#Updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
 

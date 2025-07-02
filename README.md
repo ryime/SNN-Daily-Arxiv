@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -214,5 +214,5 @@
 |**2025.02.19**|**Dynamic Activation with Knowledge Distillation for Energy-Efficient Spiking NN Ensembles**|[2502.14023v1](http://arxiv.org/abs/2502.14023v1)|None|
 |**2025.02.19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|[2502.13572v1](http://arxiv.org/abs/2502.13572v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250702>back to top</a>)</p>
 

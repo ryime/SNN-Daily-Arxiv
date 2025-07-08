@@ -1,4 +1,4 @@
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.07.04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|[2507.03765v1](http://arxiv.org/abs/2507.03765v1)|None|
+|**2025.06.30**|**Optimization of Low-Latency Spiking Neural Networks Utilizing Historical Dynamics of Refractory Periods**|[2507.02960v1](http://arxiv.org/abs/2507.02960v1)|None|
+|**2025.06.28**|**SPEAR: Structured Pruning for Spiking Neural Networks via Synaptic Operation Estimation and Reinforcement Learning**|[2507.02945v1](http://arxiv.org/abs/2507.02945v1)|None|
+|**2025.06.23**|**Online Continual Learning via Spiking Neural Networks with Sleep Enhanced Latent Replay**|[2507.02901v1](http://arxiv.org/abs/2507.02901v1)|9 pages, 4figures|
 |**2025.06.30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|[2506.24041v1](http://arxiv.org/abs/2506.24041v1)|Main article : 16 pages, 7 figures and 4 tables. S...|
 |**2025.06.30**|**Training of Spiking Neural Networks with Expectation-Propagation**|[2506.23757v1](http://arxiv.org/abs/2506.23757v1)|10 pages|
 |**2025.06.30**|**Towards Efficient and Accurate Spiking Neural Networks via Adaptive Bit Allocation**|[2506.23717v1](http://arxiv.org/abs/2506.23717v1)|None|
@@ -35,7 +39,7 @@
 |**2025.06.10**|**Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity**|[2506.12087v1](http://arxiv.org/abs/2506.12087v1)|None|
 |**2025.06.13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|[2506.11760v1](http://arxiv.org/abs/2506.11760v1)|7 pages, 4 figures. Accepted in Proceedings of Neu...|
 |**2025.06.12**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|[2506.11286v1](http://arxiv.org/abs/2506.11286v1)|None|
-|**2025.06.11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|11 pages, 5 figures|
+|**2025.07.07**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|[2506.09695v2](http://arxiv.org/abs/2506.09695v2)|11 pages, 5 figures|
 |**2025.06.11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|[2506.09599v1](http://arxiv.org/abs/2506.09599v1)|ICT45 2025 submission|
 |**2025.06.10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|[2506.09194v1](http://arxiv.org/abs/2506.09194v1)|4 pages, 5 figures, 1 table. Accepted at the 2025 ...|
 |**2025.06.10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|[2506.09087v1](http://arxiv.org/abs/2506.09087v1)|None|
@@ -199,20 +203,16 @@
 |**2025.02.28**|**Towards High-performance Spiking Transformers from ANN to SNN Conversion**|[2502.21193v1](http://arxiv.org/abs/2502.21193v1)|None|
 |**2025.02.27**|**Neuromorphic Circuits with Spiking Astrocytes for Increased Energy Efficiency, Fault Tolerance, and Memory Capacitance**|[2502.20492v1](http://arxiv.org/abs/2502.20492v1)|Accepted at IEEE 4th International Conference on C...|
 |**2025.04.23**|**A Quarter of a Century of Neuromorphic Architectures on FPGAs -- an Overview**|[2502.20415v3](http://arxiv.org/abs/2502.20415v3)|None|
-|**2025.05.27**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|[2502.20411v2](http://arxiv.org/abs/2502.20411v2)|None|
 |**2025.02.27**|**Waves and symbols in neuromorphic hardware: from analog signal processing to digital computing on the same computational substrate**|[2502.20381v1](http://arxiv.org/abs/2502.20381v1)|None|
 |**2025.03.06**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|[2502.19660v2](http://arxiv.org/abs/2502.19660v2)|Accepted by AAAI 2025|
 |**2025.02.26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|[2502.18982v1](http://arxiv.org/abs/2502.18982v1)|None|
 |**2025.02.25**|**On the Privacy-Preserving Properties of Spiking Neural Networks with Unique Surrogate Gradients and Quantization Levels**|[2502.18623v1](http://arxiv.org/abs/2502.18623v1)|None|
 |**2025.02.21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|[2502.17496v1](http://arxiv.org/abs/2502.17496v1)|None|
 |**2025.02.24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|[2502.17168v1](http://arxiv.org/abs/2502.17168v1)|None|
-|**2025.02.19**|**Spiking Point Transformer for Point Cloud Classification**|[2502.15811v1](http://arxiv.org/abs/2502.15811v1)|Accepted by AAAI 2025|
 |**2025.02.20**|**Fundamental Survey on Neuromorphic Based Audio Classification**|[2502.15056v1](http://arxiv.org/abs/2502.15056v1)|24 Pages, 1 Table|
 |**2025.02.21**|**Temporal Misalignment in ANN-SNN Conversion and Its Mitigation via Probabilistic Spiking Neurons**|[2502.14487v2](http://arxiv.org/abs/2502.14487v2)|None|
 |**2025.02.20**|**Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism**|[2502.14344v1](http://arxiv.org/abs/2502.14344v1)|9 pages, 8 figures, AAAI conference|
 |**2025.02.20**|**Rethinking Spiking Neural Networks from an Ensemble Learning Perspective**|[2502.14218v1](http://arxiv.org/abs/2502.14218v1)|Published as a conference paper at ICLR 2025|
-|**2025.02.19**|**Dynamic Activation with Knowledge Distillation for Energy-Efficient Spiking NN Ensembles**|[2502.14023v1](http://arxiv.org/abs/2502.14023v1)|None|
-|**2025.02.19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|[2502.13572v1](http://arxiv.org/abs/2502.13572v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
 

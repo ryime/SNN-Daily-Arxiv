@@ -1,4 +1,4 @@
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.07.08**|**Exploring Gain-Doped-Waveguide-Synapse for Neuromorphic Applications: A Pulsed Pump-Signal Approach**|[2507.05931v1](http://arxiv.org/abs/2507.05931v1)|13 pages, 11 figures|
 |**2025.07.04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|[2507.03765v1](http://arxiv.org/abs/2507.03765v1)|None|
 |**2025.06.30**|**Optimization of Low-Latency Spiking Neural Networks Utilizing Historical Dynamics of Refractory Periods**|[2507.02960v1](http://arxiv.org/abs/2507.02960v1)|None|
 |**2025.06.28**|**SPEAR: Structured Pruning for Spiking Neural Networks via Synaptic Operation Estimation and Reinforcement Learning**|[2507.02945v1](http://arxiv.org/abs/2507.02945v1)|None|
@@ -23,7 +24,7 @@
 |**2025.06.26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|[2506.21324v1](http://arxiv.org/abs/2506.21324v1)|None|
 |**2025.06.25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|[2506.20782v1](http://arxiv.org/abs/2506.20782v1)|8 pages, 2 figures, patent pending|
 |**2025.06.24**|**A Unified Platform to Evaluate STDP Learning Rule and Synapse Model using Pattern Recognition in a Spiking Neural Network**|[2506.19377v1](http://arxiv.org/abs/2506.19377v1)|This is a preprint with 12 pages and 12 figures. I...|
-|**2025.06.24**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|[2506.19256v1](http://arxiv.org/abs/2506.19256v1)|Code is available at
+|**2025.07.08**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|[2506.19256v2](http://arxiv.org/abs/2506.19256v2)|Code is available at
   https://github.com/ZBX05/Te...|
 |**2025.06.23**|**Spiffy: Efficient Implementation of CoLaNET for Raspberry Pi**|[2506.18306v1](http://arxiv.org/abs/2506.18306v1)|7 pages, 3 figures|
 |**2025.06.20**|**Continual Learning with Columnar Spiking Neural Networks**|[2506.17169v1](http://arxiv.org/abs/2506.17169v1)|12 pages, 3 figures|
@@ -197,7 +198,7 @@
   https://git...|
 |**2025.03.19**|**Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|[2503.00713v3](http://arxiv.org/abs/2503.00713v3)|None|
 |**2025.03.01**|**Adaptive Wall-Following Control for Unmanned Ground Vehicles Using Spiking Neural Networks**|[2503.00380v1](http://arxiv.org/abs/2503.00380v1)|None|
-|**2025.05.29**|**Differential Coding for Training-Free ANN-to-SNN Conversion**|[2503.00301v2](http://arxiv.org/abs/2503.00301v2)|None|
+|**2025.07.08**|**Differential Coding for Training-Free ANN-to-SNN Conversion**|[2503.00301v3](http://arxiv.org/abs/2503.00301v3)|None|
 |**2025.03.17**|**Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer**|[2503.00226v2](http://arxiv.org/abs/2503.00226v2)|Accepted by CVPR2025|
 |**2025.02.25**|**Memory-Free and Parallel Computation for Quantized Spiking Neural Networks**|[2503.00040v1](http://arxiv.org/abs/2503.00040v1)|None|
 |**2025.02.28**|**Towards High-performance Spiking Transformers from ANN to SNN Conversion**|[2502.21193v1](http://arxiv.org/abs/2502.21193v1)|None|
@@ -212,7 +213,6 @@
 |**2025.02.20**|**Fundamental Survey on Neuromorphic Based Audio Classification**|[2502.15056v1](http://arxiv.org/abs/2502.15056v1)|24 Pages, 1 Table|
 |**2025.02.21**|**Temporal Misalignment in ANN-SNN Conversion and Its Mitigation via Probabilistic Spiking Neurons**|[2502.14487v2](http://arxiv.org/abs/2502.14487v2)|None|
 |**2025.02.20**|**Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism**|[2502.14344v1](http://arxiv.org/abs/2502.14344v1)|9 pages, 8 figures, AAAI conference|
-|**2025.02.20**|**Rethinking Spiking Neural Networks from an Ensemble Learning Perspective**|[2502.14218v1](http://arxiv.org/abs/2502.14218v1)|Published as a conference paper at ICLR 2025|
 
-<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
 

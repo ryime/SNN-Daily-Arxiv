@@ -1,4 +1,4 @@
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -214,5 +214,5 @@
 |**2025.02.21**|**Temporal Misalignment in ANN-SNN Conversion and Its Mitigation via Probabilistic Spiking Neurons**|[2502.14487v2](http://arxiv.org/abs/2502.14487v2)|None|
 |**2025.02.20**|**Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism**|[2502.14344v1](http://arxiv.org/abs/2502.14344v1)|9 pages, 8 figures, AAAI conference|
 
-<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
 

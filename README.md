@@ -1,4 +1,4 @@
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,11 +11,14 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.07.10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|[2507.07734v1](http://arxiv.org/abs/2507.07734v1)|International Conference on Neuromorphic Systems (...|
+|**2025.07.10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|[2507.07396v1](http://arxiv.org/abs/2507.07396v1)|Under review of TNNLS|
+|**2025.07.09**|**A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs**|[2507.07284v1](http://arxiv.org/abs/2507.07284v1)|None|
 |**2025.07.08**|**Exploring Gain-Doped-Waveguide-Synapse for Neuromorphic Applications: A Pulsed Pump-Signal Approach**|[2507.05931v1](http://arxiv.org/abs/2507.05931v1)|13 pages, 11 figures|
 |**2025.07.04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|[2507.03765v1](http://arxiv.org/abs/2507.03765v1)|None|
 |**2025.06.30**|**Optimization of Low-Latency Spiking Neural Networks Utilizing Historical Dynamics of Refractory Periods**|[2507.02960v1](http://arxiv.org/abs/2507.02960v1)|None|
 |**2025.06.28**|**SPEAR: Structured Pruning for Spiking Neural Networks via Synaptic Operation Estimation and Reinforcement Learning**|[2507.02945v1](http://arxiv.org/abs/2507.02945v1)|None|
-|**2025.06.23**|**Online Continual Learning via Spiking Neural Networks with Sleep Enhanced Latent Replay**|[2507.02901v1](http://arxiv.org/abs/2507.02901v1)|9 pages, 4figures|
+|**2025.07.10**|**Online Continual Learning via Spiking Neural Networks with Sleep Enhanced Latent Replay**|[2507.02901v2](http://arxiv.org/abs/2507.02901v2)|9 pages, 4figures|
 |**2025.06.30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|[2506.24041v1](http://arxiv.org/abs/2506.24041v1)|Main article : 16 pages, 7 figures and 4 tables. S...|
 |**2025.06.30**|**Training of Spiking Neural Networks with Expectation-Propagation**|[2506.23757v1](http://arxiv.org/abs/2506.23757v1)|10 pages|
 |**2025.06.30**|**Towards Efficient and Accurate Spiking Neural Networks via Adaptive Bit Allocation**|[2506.23717v1](http://arxiv.org/abs/2506.23717v1)|None|
@@ -210,9 +213,6 @@
 |**2025.02.25**|**On the Privacy-Preserving Properties of Spiking Neural Networks with Unique Surrogate Gradients and Quantization Levels**|[2502.18623v1](http://arxiv.org/abs/2502.18623v1)|None|
 |**2025.02.21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|[2502.17496v1](http://arxiv.org/abs/2502.17496v1)|None|
 |**2025.02.24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|[2502.17168v1](http://arxiv.org/abs/2502.17168v1)|None|
-|**2025.02.20**|**Fundamental Survey on Neuromorphic Based Audio Classification**|[2502.15056v1](http://arxiv.org/abs/2502.15056v1)|24 Pages, 1 Table|
-|**2025.02.21**|**Temporal Misalignment in ANN-SNN Conversion and Its Mitigation via Probabilistic Spiking Neurons**|[2502.14487v2](http://arxiv.org/abs/2502.14487v2)|None|
-|**2025.02.20**|**Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism**|[2502.14344v1](http://arxiv.org/abs/2502.14344v1)|9 pages, 8 figures, AAAI conference|
 
-<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-## Updated on 2025.07.11
+## Updated on 2025.07.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -214,5 +214,5 @@
 |**2025.02.21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|[2502.17496v1](http://arxiv.org/abs/2502.17496v1)|None|
 |**2025.02.24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|[2502.17168v1](http://arxiv.org/abs/2502.17168v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250712>back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.07.11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|[2507.08490v1](http://arxiv.org/abs/2507.08490v1)|None|
 |**2025.07.10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|[2507.07734v1](http://arxiv.org/abs/2507.07734v1)|International Conference on Neuromorphic Systems (...|
 |**2025.07.10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|[2507.07396v1](http://arxiv.org/abs/2507.07396v1)|Under review of TNNLS|
 |**2025.07.09**|**A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs**|[2507.07284v1](http://arxiv.org/abs/2507.07284v1)|None|
@@ -118,7 +119,7 @@
 |**2025.05.08**|**ADMM-Based Training for Spiking Neural Networks**|[2505.05527v1](http://arxiv.org/abs/2505.05527v1)|6 pages, 4 figures. Preprint submitted to IEEE MLS...|
 |**2025.04.30**|**Akkumula: Evidence accumulation driver models with Spiking Neural Networks**|[2505.05489v1](http://arxiv.org/abs/2505.05489v1)|None|
 |**2025.05.09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|[2505.05375v2](http://arxiv.org/abs/2505.05375v2)|Accepted by IJCNN 2025. \c{opyright} 2025 IEEE. Pe...|
-|**2025.05.16**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|[2505.04165v4](http://arxiv.org/abs/2505.04165v4)|Accepted by ICML2025|
+|**2025.07.11**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|[2505.04165v5](http://arxiv.org/abs/2505.04165v5)|Accepted by ICML2025|
 |**2025.05.07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|None|
 |**2025.05.03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|[2505.01735v1](http://arxiv.org/abs/2505.01735v1)|None|
 |**2025.05.03**|**PASCAL: Precise and Efficient ANN- SNN Conversion using Spike Accumulation and Adaptive Layerwise Activation**|[2505.01730v1](http://arxiv.org/abs/2505.01730v1)|None|
@@ -211,8 +212,7 @@
 |**2025.03.06**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|[2502.19660v2](http://arxiv.org/abs/2502.19660v2)|Accepted by AAAI 2025|
 |**2025.02.26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|[2502.18982v1](http://arxiv.org/abs/2502.18982v1)|None|
 |**2025.02.25**|**On the Privacy-Preserving Properties of Spiking Neural Networks with Unique Surrogate Gradients and Quantization Levels**|[2502.18623v1](http://arxiv.org/abs/2502.18623v1)|None|
-|**2025.02.21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|[2502.17496v1](http://arxiv.org/abs/2502.17496v1)|None|
 |**2025.02.24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|[2502.17168v1](http://arxiv.org/abs/2502.17168v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
 

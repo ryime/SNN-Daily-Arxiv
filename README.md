@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.07.13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|[2507.09540v1](http://arxiv.org/abs/2507.09540v1)|None|
+|**2025.07.13**|**On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks**|[2507.09538v1](http://arxiv.org/abs/2507.09538v1)|None|
+|**2025.07.12**|**Cross Knowledge Distillation between Artificial and Spiking Neural Networks**|[2507.09269v1](http://arxiv.org/abs/2507.09269v1)|This paper has been accepted by ICME2025|
 |**2025.07.11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|[2507.08490v1](http://arxiv.org/abs/2507.08490v1)|None|
 |**2025.07.10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|[2507.07734v1](http://arxiv.org/abs/2507.07734v1)|International Conference on Neuromorphic Systems (...|
 |**2025.07.10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|[2507.07396v1](http://arxiv.org/abs/2507.07396v1)|Under review of TNNLS|
@@ -57,7 +60,7 @@
 |**2025.06.06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|None|
 |**2025.06.06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|11 pages|
 |**2025.06.12**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|[2506.04817v2](http://arxiv.org/abs/2506.04817v2)|None|
-|**2025.06.05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|None|
+|**2025.07.12**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|[2506.04526v2](http://arxiv.org/abs/2506.04526v2)|Withdrawn by the authors due to a critical bug in ...|
 |**2025.06.04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|None|
 |**2025.06.04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|None|
 |**2025.06.16**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|[2506.03450v2](http://arxiv.org/abs/2506.03450v2)|IJCNN conference, Italy, 2025, accepted, 30 June -...|
@@ -75,7 +78,7 @@
 |**2025.05.27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|[2505.20835v1](http://arxiv.org/abs/2505.20835v1)|None|
 |**2025.05.27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|13 pages,6 figures,4 tables|
 |**2025.05.26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|None|
-|**2025.05.24**|**Spiking Transformers Need High Frequency Information**|[2505.18608v1](http://arxiv.org/abs/2505.18608v1)|None|
+|**2025.07.13**|**Spiking Transformers Need High Frequency Information**|[2505.18608v2](http://arxiv.org/abs/2505.18608v2)|None|
 |**2025.06.13**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|[2505.18023v2](http://arxiv.org/abs/2505.18023v2)|None|
 |**2025.05.23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|None|
 |**2025.05.23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|[2505.17738v1](http://arxiv.org/abs/2505.17738v1)|None|
@@ -197,22 +200,19 @@
 |**2025.03.04**|**Weight transport through spike timing for robust local gradients**|[2503.02642v1](http://arxiv.org/abs/2503.02642v1)|19 pages, 9 figures|
 |**2025.03.03**|**Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures using Integer Linear Programming**|[2503.02033v1](http://arxiv.org/abs/2503.02033v1)|To be published in DATE'25|
 |**2025.03.03**|**Sustainable AI: Mathematical Foundations of Spiking Neural Networks**|[2503.02013v1](http://arxiv.org/abs/2503.02013v1)|None|
-|**2025.03.05**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|[2503.01297v2](http://arxiv.org/abs/2503.01297v2)|AB and RS contributed equally to this work. A vers...|
+|**2025.07.12**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|[2503.01297v3](http://arxiv.org/abs/2503.01297v3)|AB and RS contributed equally to this work. A vers...|
 |**2025.03.02**|**DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging**|[2503.00905v1](http://arxiv.org/abs/2503.00905v1)|The source code will be available at
   https://git...|
 |**2025.03.19**|**Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|[2503.00713v3](http://arxiv.org/abs/2503.00713v3)|None|
 |**2025.03.01**|**Adaptive Wall-Following Control for Unmanned Ground Vehicles Using Spiking Neural Networks**|[2503.00380v1](http://arxiv.org/abs/2503.00380v1)|None|
 |**2025.07.08**|**Differential Coding for Training-Free ANN-to-SNN Conversion**|[2503.00301v3](http://arxiv.org/abs/2503.00301v3)|None|
 |**2025.03.17**|**Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer**|[2503.00226v2](http://arxiv.org/abs/2503.00226v2)|Accepted by CVPR2025|
-|**2025.02.25**|**Memory-Free and Parallel Computation for Quantized Spiking Neural Networks**|[2503.00040v1](http://arxiv.org/abs/2503.00040v1)|None|
 |**2025.02.28**|**Towards High-performance Spiking Transformers from ANN to SNN Conversion**|[2502.21193v1](http://arxiv.org/abs/2502.21193v1)|None|
 |**2025.02.27**|**Neuromorphic Circuits with Spiking Astrocytes for Increased Energy Efficiency, Fault Tolerance, and Memory Capacitance**|[2502.20492v1](http://arxiv.org/abs/2502.20492v1)|Accepted at IEEE 4th International Conference on C...|
-|**2025.04.23**|**A Quarter of a Century of Neuromorphic Architectures on FPGAs -- an Overview**|[2502.20415v3](http://arxiv.org/abs/2502.20415v3)|None|
 |**2025.02.27**|**Waves and symbols in neuromorphic hardware: from analog signal processing to digital computing on the same computational substrate**|[2502.20381v1](http://arxiv.org/abs/2502.20381v1)|None|
 |**2025.03.06**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|[2502.19660v2](http://arxiv.org/abs/2502.19660v2)|Accepted by AAAI 2025|
 |**2025.02.26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|[2502.18982v1](http://arxiv.org/abs/2502.18982v1)|None|
 |**2025.02.25**|**On the Privacy-Preserving Properties of Spiking Neural Networks with Unique Surrogate Gradients and Quantization Levels**|[2502.18623v1](http://arxiv.org/abs/2502.18623v1)|None|
-|**2025.02.24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|[2502.17168v1](http://arxiv.org/abs/2502.17168v1)|None|
 
-<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-## Updated on 2025.07.20
+## Updated on 2025.07.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.07.21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|[2507.15734v1](http://arxiv.org/abs/2507.15734v1)|Published at the International Joint Conference on...|
+|**2025.07.21**|**When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing**|[2507.15603v1](http://arxiv.org/abs/2507.15603v1)|International Conference on Computer-Aided Design ...|
+|**2025.07.19**|**Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space**|[2507.14757v1](http://arxiv.org/abs/2507.14757v1)|None|
+|**2025.07.14**|**Boosted Enhanced Quantile Regression Neural Networks with Spatiotemporal Permutation Entropy for Complex System Prognostics**|[2507.14194v1](http://arxiv.org/abs/2507.14194v1)|Preliminary version of a predictive maintenance fr...|
+|**2025.07.18**|**Edge Intelligence with Spiking Neural Networks**|[2507.14069v1](http://arxiv.org/abs/2507.14069v1)|This work has been submitted to Proceeding of IEEE...|
 |**2025.07.08**|**An Exact Gradient Framework for Training Spiking Neural Networks**|[2507.10568v1](http://arxiv.org/abs/2507.10568v1)|None|
 |**2025.07.04**|**SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST**|[2507.10561v1](http://arxiv.org/abs/2507.10561v1)|None|
 |**2025.07.13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|[2507.09540v1](http://arxiv.org/abs/2507.09540v1)|None|
@@ -208,11 +213,6 @@
 |**2025.03.19**|**Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|[2503.00713v3](http://arxiv.org/abs/2503.00713v3)|None|
 |**2025.03.01**|**Adaptive Wall-Following Control for Unmanned Ground Vehicles Using Spiking Neural Networks**|[2503.00380v1](http://arxiv.org/abs/2503.00380v1)|None|
 |**2025.07.08**|**Differential Coding for Training-Free ANN-to-SNN Conversion**|[2503.00301v3](http://arxiv.org/abs/2503.00301v3)|None|
-|**2025.03.17**|**Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer**|[2503.00226v2](http://arxiv.org/abs/2503.00226v2)|Accepted by CVPR2025|
-|**2025.02.28**|**Towards High-performance Spiking Transformers from ANN to SNN Conversion**|[2502.21193v1](http://arxiv.org/abs/2502.21193v1)|None|
-|**2025.02.27**|**Neuromorphic Circuits with Spiking Astrocytes for Increased Energy Efficiency, Fault Tolerance, and Memory Capacitance**|[2502.20492v1](http://arxiv.org/abs/2502.20492v1)|Accepted at IEEE 4th International Conference on C...|
-|**2025.02.27**|**Waves and symbols in neuromorphic hardware: from analog signal processing to digital computing on the same computational substrate**|[2502.20381v1](http://arxiv.org/abs/2502.20381v1)|None|
-|**2025.03.06**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|[2502.19660v2](http://arxiv.org/abs/2502.19660v2)|Accepted by AAAI 2025|
 
-<p align=right>(<a href=#Updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250722>back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-## Updated on 2025.07.22
+## Updated on 2025.07.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|PDF|Comment|
 |---|---|---|---|
+|**2025.07.22**|**Fractional Spike Differential Equations Neural Network with Efficient Adjoint Parameters Training**|[2507.16937v1](http://arxiv.org/abs/2507.16937v1)|None|
+|**2025.07.22**|**Spiking neurons as predictive controllers of linear systems**|[2507.16495v1](http://arxiv.org/abs/2507.16495v1)|None|
+|**2025.07.22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|[2507.16151v1](http://arxiv.org/abs/2507.16151v1)|None|
+|**2025.07.21**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|[2507.16043v1](http://arxiv.org/abs/2507.16043v1)|None|
+|**2025.07.21**|**Quantization-Aware Neuromorphic Architecture for Efficient Skin Disease Classification on Resource-Constrained Devices**|[2507.15958v1](http://arxiv.org/abs/2507.15958v1)|This manuscript is under review for IEEE BIBM 2025|
 |**2025.07.21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|[2507.15734v1](http://arxiv.org/abs/2507.15734v1)|Published at the International Joint Conference on...|
 |**2025.07.21**|**When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing**|[2507.15603v1](http://arxiv.org/abs/2507.15603v1)|International Conference on Computer-Aided Design ...|
 |**2025.07.19**|**Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space**|[2507.14757v1](http://arxiv.org/abs/2507.14757v1)|None|
@@ -24,7 +29,7 @@
 |**2025.07.11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|[2507.08490v1](http://arxiv.org/abs/2507.08490v1)|None|
 |**2025.07.10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|[2507.07734v1](http://arxiv.org/abs/2507.07734v1)|International Conference on Neuromorphic Systems (...|
 |**2025.07.10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|[2507.07396v1](http://arxiv.org/abs/2507.07396v1)|Under review of TNNLS|
-|**2025.07.09**|**A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs**|[2507.07284v1](http://arxiv.org/abs/2507.07284v1)|None|
+|**2025.07.23**|**A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs**|[2507.07284v2](http://arxiv.org/abs/2507.07284v2)|None|
 |**2025.07.08**|**Exploring Gain-Doped-Waveguide-Synapse for Neuromorphic Applications: A Pulsed Pump-Signal Approach**|[2507.05931v1](http://arxiv.org/abs/2507.05931v1)|13 pages, 11 figures|
 |**2025.07.04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|[2507.03765v1](http://arxiv.org/abs/2507.03765v1)|None|
 |**2025.06.30**|**Optimization of Low-Latency Spiking Neural Networks Utilizing Historical Dynamics of Refractory Periods**|[2507.02960v1](http://arxiv.org/abs/2507.02960v1)|None|
@@ -183,7 +188,7 @@
 |**2025.03.20**|**Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement**|[2503.16572v1](http://arxiv.org/abs/2503.16572v1)|None|
 |**2025.03.20**|**Allostatic Control of Persistent States in Spiking Neural Networks for perception and computation**|[2503.16085v1](http://arxiv.org/abs/2503.16085v1)|None|
 |**2025.03.20**|**GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network**|[2503.16012v1](http://arxiv.org/abs/2503.16012v1)|None|
-|**2025.03.20**|**SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition**|[2503.15986v1](http://arxiv.org/abs/2503.15986v1)|16 pages, 7 figures|
+|**2025.07.23**|**SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition**|[2503.15986v2](http://arxiv.org/abs/2503.15986v2)|Accepted by ICCV 2025. The first two authors contr...|
 |**2025.03.19**|**Towards efficient keyword spotting using spike-based time difference encoders**|[2503.15402v1](http://arxiv.org/abs/2503.15402v1)|26 pages, 9 figures|
 |**2025.03.10**|**Event-Driven Implementation of a Physical Reservoir Computing Framework for superficial EMG-based Gesture Recognition**|[2503.13492v1](http://arxiv.org/abs/2503.13492v1)|11 pages, 9 figures, journal|
 |**2025.03.17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|Accepted by AAAI 2025|
@@ -207,12 +212,6 @@
 |**2025.03.04**|**Weight transport through spike timing for robust local gradients**|[2503.02642v1](http://arxiv.org/abs/2503.02642v1)|19 pages, 9 figures|
 |**2025.03.03**|**Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures using Integer Linear Programming**|[2503.02033v1](http://arxiv.org/abs/2503.02033v1)|To be published in DATE'25|
 |**2025.03.03**|**Sustainable AI: Mathematical Foundations of Spiking Neural Networks**|[2503.02013v1](http://arxiv.org/abs/2503.02013v1)|None|
-|**2025.07.12**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|[2503.01297v3](http://arxiv.org/abs/2503.01297v3)|AB and RS contributed equally to this work. A vers...|
-|**2025.03.02**|**DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging**|[2503.00905v1](http://arxiv.org/abs/2503.00905v1)|The source code will be available at
-  https://git...|
-|**2025.03.19**|**Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|[2503.00713v3](http://arxiv.org/abs/2503.00713v3)|None|
-|**2025.03.01**|**Adaptive Wall-Following Control for Unmanned Ground Vehicles Using Spiking Neural Networks**|[2503.00380v1](http://arxiv.org/abs/2503.00380v1)|None|
-|**2025.07.08**|**Differential Coding for Training-Free ANN-to-SNN Conversion**|[2503.00301v3](http://arxiv.org/abs/2503.00301v3)|None|
 
-<p align=right>(<a href=#Updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
